@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:acuadra@ing.uc3m'
 - icon: graduation-cap  # OR `google-scholar`
   icon_pack: fas  # OR `ai`
   link: https://scholar.google.es/citations?user=oEyJUfcAAAAJ&hl=es&oi=ao
@@ -51,7 +51,7 @@ social:
   link: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/albertocuadralara/
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
