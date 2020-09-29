@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Alberto Cuadra-Lara
+title: Alberto Cuadra-Lara
 
 # Username (this should match the folder name)
 authors:
