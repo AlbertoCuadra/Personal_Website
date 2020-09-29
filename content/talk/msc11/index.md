@@ -1,6 +1,6 @@
 ---
 title: Development and validation of a new MATLAB/GUI based thermochemical code
-event: Academic Theme Conference
+event: 11th Mediterranean combustion symposium
 #event_url: https://example.org
 
 #location: Source Themes HQ
@@ -8,7 +8,7 @@ address:
   city: Tenerife
   country: Spain
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: Poster presented in .
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
