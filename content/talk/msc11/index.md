@@ -41,6 +41,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
+- icon: linkedin
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/albertocuadralara/
 url_code: ""
 url_poster: "https://doi.org/10.13140/RG.2.2.16966.32328"
 url_slides: ""
