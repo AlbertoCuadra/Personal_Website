@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:acudara@ing.uc3m.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:acuadra@ing.uc3m.es'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=oEyJUfcAAAAJ&hl=es&oi=ao
