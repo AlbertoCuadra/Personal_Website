@@ -46,6 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/AlbertoCuadra
+- icon: researchgate
+  icon_pack: fas
+  link: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
