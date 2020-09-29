@@ -34,6 +34,15 @@ featured: false
 
 # links:
 # - name: ""
+links:
+- icon: researchgate
+  icon_pack: fab
+  name: Follow
+  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
+- icon: linkedin
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/albertocuadralara/
 #   url: ""
 url_pdf: https://doi.org/10.1017/jfm.2020.651
 url_code: ''
