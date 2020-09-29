@@ -5,7 +5,7 @@ authors:
 - César Huete
 - Marcos Vera
 author_notes:
-  1. Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
+  - 1. Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
 date: "2020-07-29T00:00:00Z"
 doi: "https://doi.org/10.1017/jfm.2020.651"
 
