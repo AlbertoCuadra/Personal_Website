@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alberto CuadraLara
+title: Alberto Cuadra-Lara
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ organizations:
   url: "https://www.uc3m.es/Inicio"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+I was born in Málaga (Spain) where I studied Industrial Engineering passing through two long-term abroad stays in Politehnica University of Bucharest (Romania) and Instituto Tecnológico y de Estudios Superiores de Monterrey (México) for 11 and 5 months, respectively. Feeling that my ability in mathematical modelling didn't meet my personal requirements, I considered to study an Intern-university Master degree in Applied Mathematics at Universidad Carlos III de Madrid (UC3M) and in conjunction with 4 other national universities. Currently, I'm doing my PhD thesis under the supervision of Marcos Vera and César Huete at UC3M. My research focuses on two main lines of work: first, on the development of a wider-scope thermochemical tool which will be distributed as open source package as soon as it has been fully tested. Second, in the analytical study of shock dynamics in different sceneraios, e.g., which would be the effect of equivalence ratio fluctuations on planar detonation discontinuities, both with the main idea of retrofeed each other.
 
 interests:
 - Shock waves
@@ -68,5 +68,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I was born in Málaga (Spain) where I studied Industrial Engineering passing through two long-term abroad stays in Politehnica University of Bucharest (Romania) and Instituto Tecnológico y de Estudios Superiores de Monterrey (México) for 11 and 5 months, respectively. Feeling that my ability in mathematical modelling didn't meet my personal requirements, I considered to study an Intern-university Master degree in Applied Mathematics at Universidad Carlos III de Madrid (UC3M) and in conjunction with 4 other national universities. Currently, I'm doing my PhD thesis under the supervision of Marcos Vera and César Huete at UC3M. My research focuses on two main lines of work: first, on the development of a wider-scope thermochemical tool which will be distributed as open source package as soon as it has been fully tested. Second, in the analytical study of shock dynamics in different sceneraios, e.g., which would be the effect of equivalence ratio fluctuations on planar detonation discontinuities, with the prime idea of retrofeed both lines of studies.
