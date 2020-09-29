@@ -89,6 +89,9 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "acuadra@ing.uc3m.es"
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:acuadra@ing.uc3m.es'  # For a direct email link, use "mailto:test@example.org".
 phone = "(+34) 91 624 8394"
 
 # Address
