@@ -100,7 +100,7 @@ address = {street = "Building Agustín de Betancourt, Office 1.1.D22, Universida
 coordinates = {latitude = "40.333663", longitude = "-3.765376"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
