@@ -89,9 +89,6 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "acuadra@ing.uc3m.es"
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:acuadra@ing.uc3m.es'  # For a direct email link, use "mailto:test@example.org".
 phone = "(+34) 91 624 8394"
 
 # Address
@@ -114,13 +111,14 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-#contact_links = [
+contact_links = [
+  {icon = "envelope", icon_pack = "fas", name = "Mail me", link = "mailto:acuadra@ing.uc3m.es"}
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-#  ]
+  ]
 
 ############################
 ## Social
