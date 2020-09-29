@@ -29,10 +29,14 @@ image:
   caption: ''
 
 links:
-- icon: twitter
+- icon: researchgate
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
+- icon: linkedin
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/albertocuadralara/
 url_code: ""
 url_pdf: files/WFM_Granada_2019.pdf
 url_slides: files/Slides_WFM_Granada_2019.pdf
