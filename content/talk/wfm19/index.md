@@ -8,7 +8,7 @@ address:
   city: Granada
   country: Spain
 
-summary: Abstract and slides presented in the Spanish Workshop on Fluid Mechanics.
+summary: Short talk presented in the Spanish Workshop on Fluid Mechanics.
 abstract: "Detonation waves have been explored extensively for propulsion applications (e.g., pulsed detonation engines) because of their theoretical advantage over deflagrative combustion. One of the major problems is the lack of understanding of the heat transfer characteristics and the noise generation mechanism of the system. In this work we will analyse the effect of local perturbations in the fuel mass fraction mimicking the effect of mixture heterogeneities on detonation dynamics."
 
 # Talk start and end times.
