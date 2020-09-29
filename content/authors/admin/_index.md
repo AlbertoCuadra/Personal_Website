@@ -25,9 +25,8 @@ education:
   courses:
   - course: PhD in Fluid Mechanics, currently
     institution: Universidad Carlos III de Madrid
-    year: 2019
   - course: MSc in Applied Mathematics
-    institution: Universidad Carlos III de Madrid, 
+    institution: Universidad Carlos III de Madrid
     year: 2019
   - course: BSc in Industrial Engineering
     institution: Universidad de Málaga
