@@ -9,25 +9,17 @@ address:
   country: Spain
 
 summary: Abstract and slides presented in the Spanish Workshop on Fluid Mechanics.
-abstract: "As a first step towards the development of a wider-scope thermochemical tool, in this work we present a thermochemical code with application to gaseous combustion
-problems recently implemented by the authors in MATLAB. The code solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where
-T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), incident and reflected planar shock waves, as well as ideal detonations
-according to Chapman-Jouguet theory, assuming always ideal gases in all cases. The code computes the equilibrium composition using equilibrium constants rather
-than by minimization of the Gibbs–Helmholtz free energy, and employs NASA’s 9-coefficient polynomial fits to evaluate the thermodynamic properties. Along with
-the plain code, the new tool has been equipped with a Graphical User Interface (hereafter Combustion-Toolbox) developed in MATLAB 2018 under AppDesigner.
-Results computed with Combustion-Toolbox have been validated against, and are in good agreement with, NASA’s Chemical Equilibrium with Applications (CEA) program, CANTERA, and Caltech’s Shock and Detonation Toolbox. Moreover, the time required for the computations is comparable to that of other existing codes.
-Combustion-Toolbox has teaching and research aspirations and will be distributed as open source package as soon as it has been fully tested."
+abstract: "Detonation waves have been explored extensively for propulsion applications (e.g., pulsed detonation engines) because of their theoretical advantage over deflagrative combustion. One of the major problems is the lack of understanding of the heat transfer characteristics and the noise generation mechanism of the system. In this work we will analyse the effect of local perturbations in the fuel mass fraction mimicking the effect of mixture heterogeneities on detonation dynamics."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-20T13:00:00Z"
-date_end: "2019-06-20T15:00:00Z"
-all_day: false
+date: "2019-07-23T16:00:00Z"
+date_end: "2019-07-23T16:20:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, Marcos Vera]
+authors: [admin, César Huete, Marcos Vera]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -42,7 +34,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://doi.org/10.13140/RG.2.2.16966.32328"
+url_pdf: files/WFM_Granada_2019.pdf
 url_slides: ""
 url_video: ""
 
