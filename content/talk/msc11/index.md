@@ -9,7 +9,14 @@ address:
   country: Spain
 
 summary: Poster presented in .
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "As a first step towards the development of a wider-scope thermochemical tool, in this work we present a thermochemical code with application to gaseous combustion
+problems recently implemented by the authors in MATLAB. The code solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where
+T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), incident and reflected planar shock waves, as well as ideal detonations
+according to Chapman-Jouguet theory, assuming always ideal gases in all cases. The code computes the equilibrium composition using equilibrium constants rather
+than by minimization of the Gibbs–Helmholtz free energy, and employs NASA’s 9-coefficient polynomial fits to evaluate the thermodynamic properties. Along with
+the plain code, the new tool has been equipped with a Graphical User Interface (hereafter Combustion-Toolbox) developed in MATLAB 2018 under AppDesigner.
+Results computed with Combustion-Toolbox have been validated against, and are in good agreement with, NASA’s Chemical Equilibrium with Applications (CEA) program, CANTERA, and Caltech’s Shock and Detonation Toolbox. Moreover, the time required for the computations is comparable to that of other existing codes.
+Combustion-Toolbox has teaching and research aspirations and will be distributed as open source package as soon as it has been fully tested."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
