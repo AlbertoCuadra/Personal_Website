@@ -35,7 +35,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: files/WFM_Granada_2019.pdf
-url_slides: ""
+url_slides: files/Slides_WFM_Granada_2019.pdf
 url_video: ""
 
 # Markdown Slides (optional).
