@@ -18,7 +18,7 @@ organizations:
 
 interests:
 - Shock waves
-- Thermochemistry
+- Combustion
 - App development
 
 education:
