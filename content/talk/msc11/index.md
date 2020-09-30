@@ -9,7 +9,7 @@ address:
   country: Spain
 
 summary: Poster presented in the 11th Mediterranean Combustion Symposium.
-  abstract: "As a first step towards the development of a wider-scope thermochemical tool, in this work we present a thermochemical code with application to gaseous combustion       problems recently implemented by the authors in MATLAB. The code solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where T denotes             temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), incident and reflected planar shock waves, as well as ideal detonations according to             Chapman-Jouguet theory, assuming always ideal gases in all cases."
+  abstract: "As a first step towards the development of a wider-scope thermochemical tool, in this work we present a thermochemical code with application to gaseous combustion   problems recently implemented by the authors in MATLAB. The code solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), incident and reflected planar shock waves, as well as ideal detonations according to Chapman-Jouguet theory, assuming always ideal gases in all cases."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
