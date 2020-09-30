@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}} Working on the first post "First steps toward the development of a wider-scope thermochemical tool" {{% /alert %}}
