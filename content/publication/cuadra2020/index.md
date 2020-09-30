@@ -45,6 +45,7 @@ links:
   url: https://www.linkedin.com/in/albertocuadralara/
 #   url: ""
 url_pdf: https://doi.org/10.1017/jfm.2020.651
+url_preprint: https://www.researchgate.net/publication/343384770_Effect_of_equivalence_ratio_fluctuations_on_planar_detonation_discontinuities
 url_code: ''
 url_dataset: ''
 url_poster: ''
