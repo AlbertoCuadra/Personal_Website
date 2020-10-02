@@ -3,11 +3,14 @@ title: First steps toward the development of a wider-scope thermochemical tool
 date: 2020-10-02
 math: true
 diagram: true
+# Schedule page publish date (NOT publication's date).
+publishDate: "2020-12-01T00:00:00Z"
 #image:
 #  placement: 3
 #  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
+The chemical equilibrium approach   
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
