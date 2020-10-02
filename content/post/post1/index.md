@@ -10,8 +10,7 @@ publishDate: "2020-12-01T00:00:00Z"
 #  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-The chemical equilibrium approach   
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+The chemical equilibrium approach has been using extensively during the last century in order to find the chemical composition that would give a certain reaction. This information can be very useful for many type of problems, e.g., ..... The resolution method is very easy for reactions that involve only a few number of species, but the complexity increases as the number of species increase, giving a problem that can be tought to resolve by hand. In the late 1940's appears the first themochemical code developed at the NACA Lewis Flight Propulsion Laboratory (nowadays, known as NASA) with the initial aim of evaluating rocket performance of various potential propellants. 
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
