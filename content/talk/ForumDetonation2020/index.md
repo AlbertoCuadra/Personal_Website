@@ -1,14 +1,14 @@
 ---
-title: Development and validation of a new MATLAB/GUI based thermochemical code
-event: 11th Mediterranean Combustion Symposium
+title: Theory of planar detonations in non-perfect gaseous mixtures
+event: "Young Researcher's Forum on Detonation: from Fundamentals to Applications (Season 1 in Fall 2020)"
 #event_url: https://example.org
 
 #location: Source Themes HQ
 address:
-  city: Tenerife
+  city: Madrid
   country: Spain
 
-summary: "Upcoming talk in the Young Researcher's Forum on Detonation: from Fundamentals to Applications"
+summary: "Upcoming talk in the Young Researcher's Forum on Detonation: from Fundamentals to Applications (Season 1 in Fall 2020)"
 # abstract: " "
 
 # Talk start and end times.
