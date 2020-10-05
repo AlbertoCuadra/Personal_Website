@@ -9,7 +9,7 @@ address:
   country: Spain
 
 summary: Poster presented in the 11th Mediterranean Combustion Symposium.
-abstract: " "
+# abstract: " "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
