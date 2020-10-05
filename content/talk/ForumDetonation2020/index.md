@@ -1,5 +1,5 @@
 ---
-title: Theory of planar detonation 
+title: a
 event: Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020)
 #event_url: https://example.org
 
