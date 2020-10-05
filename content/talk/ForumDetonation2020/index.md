@@ -8,7 +8,7 @@ address:
   city: Tenerife
   country: Spain
 
-summary: Hola
+summary: Upcoming talk in the Young Researcher's Forum on Detonation: from Fundamentals to Applications
 # abstract: " "
 
 # Talk start and end times.
