@@ -8,7 +8,7 @@ address:
   city: Tenerife
   country: Spain
 
-summary: Poster presented in the 11th Mediterranean Combustion Symposium.
+summary: Upcoming talk in the Young Researcher's Forum on Detonation: from Fundamentals to Applications (Season 1 in Fall 2020)
 # abstract: " "
 
 # Talk start and end times.
