@@ -22,7 +22,7 @@ Results computed with Combustion-Toolbox have been validated against, and are in
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-06-20T12:00:00Z"
-# date_end: "2019-06-20T15:00:00Z"
+date_end: "2019-06-20T15:00:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
