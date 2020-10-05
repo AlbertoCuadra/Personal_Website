@@ -20,7 +20,7 @@ date: "2020-10-20T15:30:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [admin, César Huete]
-tags: [Shock waves, Detonation waves, Turbulent mixing]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
