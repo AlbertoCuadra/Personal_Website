@@ -9,7 +9,7 @@ address:
   country: Spain
 
 summary: Upcoming talk in the Young Researchers Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020).
-# abstract: ""
+abstract: " "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
