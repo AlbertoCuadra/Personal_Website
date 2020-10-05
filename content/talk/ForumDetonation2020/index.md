@@ -1,5 +1,5 @@
 ---
-title: Theory of planar detonation in non-perfect gaseous mixtures
+title: Theory of planar detonation 
 event: Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020)
 #event_url: https://example.org
 
