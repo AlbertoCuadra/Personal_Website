@@ -1,6 +1,6 @@
 ---
-title: a
-event: Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020)
+title: Theory of planar detonation in non-perfect gaseous mixtures
+event: Young Researchers Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020)
 #event_url: https://example.org
 
 #location: Source Themes HQ
@@ -8,7 +8,7 @@ address:
   city: Madrid
   country: Spain
 
-summary: Upcoming talk in the Young Researchers Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020).
+summary: Upcoming talk in the Young Researchers Forum on Detonation: From Fundamentals to Applications (Season 1 in Fall 2020)
 abstract: " "
 
 # Talk start and end times.
