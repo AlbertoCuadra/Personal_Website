@@ -21,14 +21,14 @@ Results computed with Combustion-Toolbox have been validated against, and are in
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-20T12:00:00Z"
-date_end: "2019-06-20T15:00:00Z"
+date: "2020-10-20T15:30:00Z"
+# date_end: "2020-10-20T16:30:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, Marcos Vera]
-tags: []
+authors: [admin, César Huete]
+tags: [Shock waves, Detonation waves, Turbulent mixing]
 
 # Is this a featured talk? (true/false)
 featured: false
