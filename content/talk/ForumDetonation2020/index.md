@@ -19,7 +19,7 @@ date: "2020-11-10T15:30:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, César Huete]
+authors: [César Huete, admin]
 tags: [Shock waves, Detonation waves, Turbulent mixing]
 
 # Is this a featured talk? (true/false)
