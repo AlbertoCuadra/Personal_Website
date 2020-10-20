@@ -17,7 +17,7 @@ date: "2020-11-10T15:30:00Z"
 # date_end: "2020-11-10T16:30:00Z"
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2030-01-01T00:00:00Z"
 
 authors: [César Huete, admin]
 tags: [Shock waves, Detonation waves, Turbulent mixing]
