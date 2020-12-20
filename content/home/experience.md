@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Courses:
   
-  * Engineering Fluid Mechanics (also coordinating lab teacher - only in 2020)
+  * Engineering Fluid Mechanics (also coordinator lab teacher - 2020 only)
   * Aero-themochemical systems
   """
 
