@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   location = "Aranjuez"
   date_start = "2019-09-01"
   date_end = ""
-  description = """ Taught Explosion dynamics."""
-  
+  description = """ Taught Explosion dynamics"""
+
+[[experience]]
+  title = "Fellowship"
+  company = "Universidad Carlos III de Madrid"
+  company_url = ""
+  location = "Leganés"
+  date_start = "2018-10-01"
+  date_end = "2019-01-01"
+  description = """ Development of a graphic user interface (GUI) for a thermochemical code
+  with application to combustion and detonation of gaseous reactive mixtures and energetic materials"""
+
 +++
