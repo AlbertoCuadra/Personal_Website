@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lab Professor"
-  company = "Universidad Carlos III de Madrid"
+  company = "Centro Universitario de la Guardia Civil"
   company_url = ""
   location = "Aranjuez"
   date_start = "2019-09-01"
