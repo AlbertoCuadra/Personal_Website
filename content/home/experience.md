@@ -22,7 +22,7 @@ date_format = "jan 2006"
   company = "Universidad Carlos III de Madrid"
   company_url = ""
   location = "Leganés"
-  date_start = "2019"
+  date_start = "Mar 2019"
   date_end = ""
   description = """
   Courses:
@@ -31,4 +31,13 @@ date_format = "jan 2006"
   * Aero-themochemical systems
   """
 
+[[experience]]
+  title = "Lab Professor"
+  company = "Universidad Carlos III de Madrid"
+  company_url = ""
+  location = "Aranjuez"
+  date_start = "Sept 2019"
+  date_end = ""
+  description = """ Taught explosions dynamics."""
+  
 +++
