@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Universidad Carlos III de Madrid"
   company_url = ""
   location = "Leganés"
-  date_start = "2019-03-01"
+  date_start = "2020-03-01"
   date_end = ""
   description = """
   Courses:
