@@ -31,12 +31,4 @@ date_format = "jan 2006"
   * Aero-themochemical systems
   """
 
-[[experience]]
-  title = "Lab Professor"
-  company = "Universidad Carlos III de Madrid"
-  company_url = ""
-  location = "Aranjuez"
-  date_start = "2019"
-  date_end = ""
-  description = """ Taught explosions dynamics."""
 +++
