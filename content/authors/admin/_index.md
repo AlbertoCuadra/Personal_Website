@@ -34,11 +34,11 @@ Education:
 
 Teaching activities:
   courses:
-  - Engineering Fluid Mechanics (labs), 2019-currently
+  - course: Engineering Fluid Mechanics (labs), 2019-currently
     institution: Universidad Carlos III de Madrid
-  - Aero-thermochemical Systems (lab), 2019-currently
+  - course: Aero-thermochemical Systems (lab), 2019-currently
     institution: Universidad Carlos III de Madrid
-  - Explosives dynamics (lab), 2019-currently
+  - course: Explosives dynamics (lab), 2019-currently
     institution: Centro Unversitario de la Guardia Civil
     
 # Social/Academic Networking
