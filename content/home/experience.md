@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -35,7 +35,7 @@ date_format = "2006"
   title = "Lab Professor"
   company = "Universidad Carlos III de Madrid"
   company_url = ""
-  location = "Leganés"
+  location = "Aranjuez"
   date_start = "2019"
   date_end = ""
   description = """ Taught explosions dynamics."""
