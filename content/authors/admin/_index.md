@@ -31,15 +31,6 @@ Education:
   - course: BSc in Industrial Engineering
     institution: Universidad de Málaga
     year: 2017
-
-Teaching activities:
-  courses:
-  - course: Engineering Fluid Mechanics (labs), 2019-currently
-    institution: Universidad Carlos III de Madrid
-  - course: Aero-thermochemical Systems (lab), 2019-currently
-    institution: Universidad Carlos III de Madrid
-  - course: Explosives dynamics (lab), 2019-currently
-    institution: Centro Unversitario de la Guardia Civil
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
