@@ -20,6 +20,8 @@ Interests:
 - Shock waves
 - Combustion
 - App development
+- Cryptocurrency
+- Technical analysis
 
 Education:
   courses:
