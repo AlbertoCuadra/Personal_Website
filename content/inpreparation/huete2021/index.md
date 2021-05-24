@@ -1,5 +1,5 @@
 ---
-title: "Interaction of molecular dissociating shocks with isotropic turbulent flows"
+title: "Thermochemical effects of gas dissociation on the interaction of shock waves with weak turbulence"
 authors:
 - César Huete
 - admin
