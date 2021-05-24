@@ -1,13 +1,13 @@
 ---
 title: "Interaction of molecular dissociating shocks with isotropic turbulent flows"
 authors:
-- César Huete*<sup>1</sup>
-- admin*<sup>1</sup>
-- Marcos Vera*<sup>1</sup>
-- Javier Urzai*<sup>2</sup>
+- César Huete
+- admin
+- Marcos Vera
+- Javier Urzai
 
-*<sup>1</sup> Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
-*<sup>2</sup> Center for Turbulence Research, Stanford University, Stanford, CA 94305,USA
+# Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
+# Center for Turbulence Research, Stanford University, Stanford, CA 94305,USA
 date: "2021-04-29T00:00:00Z"
 doi: ""
 
