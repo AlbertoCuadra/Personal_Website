@@ -4,7 +4,7 @@ authors:
 - César Huete
 - admin
 - Marcos Vera
-- Javier Urzai
+- Javier Urzay
 
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
 # Center for Turbulence Research, Stanford University, Stanford, CA 94305,USA
