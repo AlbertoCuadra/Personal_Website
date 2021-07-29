@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="415.42874mm"
-   height="78.661118mm"
-   viewBox="0 0 415.42875 78.661118"
+   width="404.58228mm"
+   height="110.92682mm"
+   viewBox="0 0 404.58228 110.92682"
    version="1.1"
    id="svg8913"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -28,8 +28,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.18529742"
-     inkscape:cx="585.54513"
-     inkscape:cy="-18.888552"
+     inkscape:cx="1103.6311"
+     inkscape:cy="207.77407"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -230,15 +230,111 @@
          d="m 2462,3422 h 26 v 19.5742 h -26 z m 0,0"
          id="path1832-9-3" />
     </clipPath>
+    <clipPath
+       id="clip122-2-7">
+      <path
+         d="m 2401,3365.25 h 4 v 76.3242 h -4 z m 0,0"
+         id="path1787-3-9" />
+    </clipPath>
+    <clipPath
+       id="clip123-3-5">
+      <path
+         d="m 2296.5,3396 h 17.5 v 20 h -17.5 z m 0,0"
+         id="path1790-1-9" />
+    </clipPath>
+    <clipPath
+       id="clip124-0-4">
+      <path
+         d="m 2550,3389 h 6 v 27 h -6 z m 0,0"
+         id="path1793-6-41" />
+    </clipPath>
+    <clipPath
+       id="clip125-5-9">
+      <path
+         d="m 2422,3365.25 h 16 V 3385 h -16 z m 0,0"
+         id="path1796-3-8" />
+    </clipPath>
+    <clipPath
+       id="clip126-8-1">
+      <path
+         d="m 2452,3365.25 h 4 V 3385 h -4 z m 0,0"
+         id="path1799-0-3" />
+    </clipPath>
+    <clipPath
+       id="clip127-6-1">
+      <path
+         d="m 2505,3365.25 h 4 V 3385 h -4 z m 0,0"
+         id="path1802-1-7" />
+    </clipPath>
+    <clipPath
+       id="clip128-3-7">
+      <path
+         d="m 2542,3365.25 h 14 V 3385 h -14 z m 0,0"
+         id="path1805-8-4" />
+    </clipPath>
+    <clipPath
+       id="clip129-4-0">
+      <path
+         d="m 2510,3365.25 h 15 V 3385 h -15 z m 0,0"
+         id="path1808-0-1" />
+    </clipPath>
+    <clipPath
+       id="clip130-4-7">
+      <path
+         d="m 2422,3422 h 15 v 19.5742 h -15 z m 0,0"
+         id="path1811-6-1" />
+    </clipPath>
+    <clipPath
+       id="clip131-3-1">
+      <path
+         d="m 2439,3427 h 15 v 14.5742 h -15 z m 0,0"
+         id="path1814-0-2" />
+    </clipPath>
+    <clipPath
+       id="clip132-0-3">
+      <path
+         d="m 2490,3427 h 15 v 14.5742 h -15 z m 0,0"
+         id="path1817-7-6" />
+    </clipPath>
+    <clipPath
+       id="clip133-2-8">
+      <path
+         d="m 2507,3422 h 15 v 19.5742 h -15 z m 0,0"
+         id="path1820-7-2" />
+    </clipPath>
+    <clipPath
+       id="clip134-6-2">
+      <path
+         d="m 2526,3427 h 8 v 14.5742 h -8 z m 0,0"
+         id="path1823-4-7" />
+    </clipPath>
+    <clipPath
+       id="clip135-8-7">
+      <path
+         d="m 2536,3422 h 3 v 19.5742 h -3 z m 0,0"
+         id="path1826-1-1" />
+    </clipPath>
+    <clipPath
+       id="clip136-7-3">
+      <path
+         d="m 2542,3422 h 14 v 19.5742 h -14 z m 0,0"
+         id="path1829-5-8" />
+    </clipPath>
+    <clipPath
+       id="clip137-0-0">
+      <path
+         d="m 2462,3422 h 26 v 19.5742 h -26 z m 0,0"
+         id="path1832-9-7" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(87.660556,14.039614)">
+     transform="translate(224.269,73.78668)">
     <g
        id="g132089"
-       transform="matrix(0.35277777,0,0,0.35277777,-575.50448,-1149.0908)">
+       transform="matrix(0.35277777,0,0,0.35277777,-722.9594,-1176.5527)">
       <path
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.728"
          d="m 2362.4062,3290.5773 c -2.5379,2.7067 -6.2978,4.509 -10.3139,4.509 -7.6747,0 -13.8916,-6.1832 -13.8916,-13.8038 0,-7.6208 6.2169,-13.8038 13.8916,-13.8038 4.0634,0 7.7558,1.7348 10.2937,4.4889 l 0.034,-10.8945 c -3.0846,-1.546 -6.6082,-2.4166 -10.2937,-2.4166 -12.5887,0 -22.788,10.1317 -22.788,22.6328 0,12.4943 10.1993,22.6258 22.788,22.6258 3.6921,0 7.2091,-0.8706 10.2937,-2.4231 l -0.017,-10.9147"
@@ -264,7 +360,7 @@
          d="m 2428.5698,3258.6767 h 8.1945 v 45.3262 h -8.1945 v -45.3262"
          id="path12145-7" />
       <g
-         clip-path="url(#clip122-2-3)"
+         clip-path="url(#clip122-2-7)"
          clip-rule="nonzero"
          id="g12149-9"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -278,7 +374,7 @@
          d="m 2168.8364,3282.1397 c -1.8561,-1.782 -4.3807,-2.8688 -7.1617,-2.8688 -4.5698,0 -8.2889,3.6788 -8.2889,8.2216 0,4.5426 3.7058,8.2215 8.2823,8.2215 2.7943,0 5.3122,-1.1003 7.1683,-2.8957 v 9.4634 c -2.1666,1.0328 -4.6168,1.6132 -7.1683,1.6132 -9.1261,0 -16.5174,-7.344 -16.5174,-16.4024 0,-9.0585 7.3913,-16.4025 16.5174,-16.4025 2.5581,0 5.0017,0.5805 7.1683,1.6131 v 9.4366"
          id="path12151-6" />
       <g
-         clip-path="url(#clip123-3-7)"
+         clip-path="url(#clip123-3-5)"
          clip-rule="nonzero"
          id="g12155-4"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -300,7 +396,7 @@
          d="m 2515.3207,3258.5823 h 9.9834 v 45.3194 h -9.9834 v -45.3194"
          id="path12161-2" />
       <g
-         clip-path="url(#clip124-0-9)"
+         clip-path="url(#clip124-0-4)"
          clip-rule="nonzero"
          id="g12165-5"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -314,7 +410,7 @@
          d="m 2533.1609,3258.5823 h 9.9834 v 45.3194 h -9.9834 v -45.3194"
          id="path12167-1" />
       <g
-         clip-path="url(#clip125-5-4)"
+         clip-path="url(#clip125-5-9)"
          clip-rule="nonzero"
          id="g12171-8"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -328,7 +424,7 @@
          d="m 2362.9597,3236.2937 c 0,-3.4357 2.7474,-6.2234 6.2101,-6.2234 3.4626,0 6.2706,2.7877 6.2706,6.2234 l 0.02,14.229 h 3.4022 l 0.028,-14.499 c 0,-5.1368 -4.2593,-9.3217 -9.4296,-9.3217 -2.5314,0 -4.8399,1.0395 -6.5207,2.6595 v -2.6933 h -3.4019 v 23.8545 h 3.4019 l 0.02,-14.229"
          id="path12173-6" />
       <g
-         clip-path="url(#clip126-8-9)"
+         clip-path="url(#clip126-8-1)"
          clip-rule="nonzero"
          id="g12177-8"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -354,7 +450,7 @@
          d="m 2512.2427,3238.5415 c 0,-4.7453 3.8746,-8.5859 8.6536,-8.5859 4.7721,0 8.6468,3.8406 8.6468,8.5859 0,4.7452 -3.8747,8.5928 -8.6468,8.5928 -4.779,0 -8.6536,-3.8476 -8.6536,-8.5928 z m 17.3677,8.3227 c -2.1937,2.2545 -5.3122,3.6585 -8.7141,3.6585 -6.6623,0 -12.069,-5.3662 -12.069,-11.9812 0,-6.615 5.4067,-11.9813 12.069,-11.9813 3.4221,0 6.5204,1.404 8.7141,3.6787 v -3.6787 h 3.4156 v 23.7803 h -3.4156 v -3.4763"
          id="path12185-7" />
       <g
-         clip-path="url(#clip127-6-0)"
+         clip-path="url(#clip127-6-1)"
          clip-rule="nonzero"
          id="g12189-1"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -364,7 +460,7 @@
            id="path12187-6" />
       </g>
       <g
-         clip-path="url(#clip128-3-3)"
+         clip-path="url(#clip128-3-7)"
          clip-rule="nonzero"
          id="g12193-7"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -374,7 +470,7 @@
            id="path12191-5" />
       </g>
       <g
-         clip-path="url(#clip129-4-2)"
+         clip-path="url(#clip129-4-0)"
          clip-rule="nonzero"
          id="g12197-5"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -388,7 +484,7 @@
          d="m 2459.91,3232.6217 c -0.1486,-1.6268 1.2556,-2.7741 2.808,-2.7741 1.9642,0.034 3.3076,1.1137 3.9893,2.5244 l 2.781,-1.566 c -1.431,-2.7809 -3.7599,-4.2997 -6.5274,-4.2997 -3.6178,0 -6.5608,2.5648 -6.6688,6.1288 0,3.0849 1.8697,4.3606 4.3941,5.7106 l 4.9005,2.6054 c 1.1746,0.7832 1.6673,1.4514 1.6673,2.8486 -0.088,1.6943 -1.7144,3.2872 -3.8069,3.2872 -2.4234,0 -4.0028,-1.3904 -5.076,-3.348 l -3.1524,1.5322 c 1.2353,3.4291 4.536,5.2516 7.8369,5.2516 4.1445,0 7.7085,-3.0442 7.8502,-7.2022 0,-3.564 -2.5854,-5.13 -5.2245,-6.4868 -2.7337,-1.5052 -5.7172,-2.6594 -5.7713,-4.212"
          id="path12199-6" />
       <g
-         clip-path="url(#clip130-4-6)"
+         clip-path="url(#clip130-4-7)"
          clip-rule="nonzero"
          id="g12203-0"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -398,7 +494,7 @@
            id="path12201-4" />
       </g>
       <g
-         clip-path="url(#clip131-3-4)"
+         clip-path="url(#clip131-3-1)"
          clip-rule="nonzero"
          id="g12207-6"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -408,7 +504,7 @@
            id="path12205-8" />
       </g>
       <g
-         clip-path="url(#clip132-0-8)"
+         clip-path="url(#clip132-0-3)"
          clip-rule="nonzero"
          id="g12211-3"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -418,7 +514,7 @@
            id="path12209-6" />
       </g>
       <g
-         clip-path="url(#clip133-2-4)"
+         clip-path="url(#clip133-2-8)"
          clip-rule="nonzero"
          id="g12215-8"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -428,7 +524,7 @@
            id="path12213-1" />
       </g>
       <g
-         clip-path="url(#clip134-6-1)"
+         clip-path="url(#clip134-6-2)"
          clip-rule="nonzero"
          id="g12219-4"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -438,7 +534,7 @@
            id="path12217-9" />
       </g>
       <g
-         clip-path="url(#clip135-8-5)"
+         clip-path="url(#clip135-8-7)"
          clip-rule="nonzero"
          id="g12223-8"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -448,7 +544,7 @@
            id="path12221-4" />
       </g>
       <g
-         clip-path="url(#clip136-7-2)"
+         clip-path="url(#clip136-7-3)"
          clip-rule="nonzero"
          id="g12227-5"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -458,7 +554,7 @@
            id="path12225-7" />
       </g>
       <g
-         clip-path="url(#clip137-0-4)"
+         clip-path="url(#clip137-0-0)"
          clip-rule="nonzero"
          id="g12231-1"
          transform="matrix(1.728,0,0,1.728,-1856.31,-2597.684)">
@@ -469,7 +565,7 @@
       </g>
     </g>
     <g
-       transform="translate(-503.68762,-801.67367)"
+       transform="translate(-640.22833,-829.13556)"
        id="g12994">
       <g
          style="fill:#ffffff;stroke-width:0"
@@ -479,14 +575,30 @@
            id="text2035-9-2"
            y="168.48372"
            x="261.85117"
-           style="font-style:normal;font-weight:normal;font-size:9.00001px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24375"
+           style="font-style:normal;font-weight:normal;font-size:7.80001px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24375"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00001px;font-family:Rasa;-inkscape-font-specification:Rasa;fill:#ffffff;stroke-width:0.24375"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.80001px;font-family:Askan;-inkscape-font-specification:Askan;fill:#ffffff;stroke-width:0.24375"
              y="168.48372"
              x="261.85117"
              id="tspan2033-6-2"
              sodipodi:role="line">Presented at The 25th International Congress of Theoretical and Applied Mechanics</tspan></text>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:Rasa;-inkscape-font-specification:Rasa;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="-81.282005"
+       y="-68.710915"
+       id="text12088"><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;fill:#ffffff;stroke-width:0.264583"
+         x="-81.282005"
+         y="-68.710915"
+         id="tspan20274">Work funded by a 2019 Leonardo Grant for Researchers and Cultural Creators awarded</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.76111px;fill:#ffffff;stroke-width:0.264583"
+         x="-81.282005"
+         y="-59.009529"
+         id="tspan22894">by the BBVA Foundation, and by the MICINN Grant no. PID2019-108592RB-C41</tspan></text>
   </g>
 </svg>
