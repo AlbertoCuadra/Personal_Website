@@ -35,8 +35,8 @@
      inkscape:window-x="1912"
      inkscape:window-height="1017"
      inkscape:window-width="1920"
-     inkscape:cy="280.98027"
-     inkscape:cx="376.27533"
+     inkscape:cy="374.87393"
+     inkscape:cx="500.99974"
      inkscape:zoom="0.71357323"
      showgrid="false"
      inkscape:document-units="mm"
@@ -50,7 +50,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="false" />
   <defs
      id="defs9926">
     <clipPath
@@ -8269,25 +8270,25 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:1.25;font-family:Askan;-inkscape-font-specification:Askan;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="47.877766"
-       y="205.56792"
-       id="text9766"><tspan
+       style="font-size:9.17222px;line-height:1.25;font-family:Askan;-inkscape-font-specification:Askan;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="44.790535"
+       y="205.20598"
+       id="text9766-4"><tspan
          sodipodi:role="line"
-         id="tspan9764"
-         style="stroke-width:0.264583"
-         x="47.877766"
-         y="205.56792">destructive interference</tspan></text>
+         id="tspan9764-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222px;font-family:rasa;-inkscape-font-specification:rasa;stroke-width:0.264583"
+         x="44.790535"
+         y="205.20598">destructive interference</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:1.25;font-family:Askan;-inkscape-font-specification:Askan;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="193.7735"
-       y="205.56792"
-       id="text9766-9"><tspan
+       style="font-size:9.17222px;line-height:1.25;font-family:Askan;-inkscape-font-specification:Askan;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="190.4767"
+       y="205.20139"
+       id="text9766-2"><tspan
          sodipodi:role="line"
-         id="tspan9764-3"
-         style="stroke-width:0.264583"
-         x="193.7735"
-         y="205.56792">constructive interference</tspan></text>
+         id="tspan9764-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222px;font-family:rasa;-inkscape-font-specification:rasa;stroke-width:0.264583"
+         x="190.4767"
+         y="205.20139">constructive interference</tspan></text>
   </g>
 </svg>
