@@ -1,5 +1,5 @@
 ---
-title: "Thermochemical effects of gas dissociation and vibrational excitation on hypersonic shock waves interacting with weak turbulence"
+title: "Thermochemical effects of gas dissociation and vibrational excitation on hypersonic shock waves interacting with weak turbulence (accepted)"
 authors:
 - César Huete
 - admin
