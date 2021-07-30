@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   location = "Aranjuez"
   date_start = "2019-09-01"
   date_end = ""
-  description = """ Taught Explosion dynamics"""
+  description = """ Course: Explosion dynamics"""
 
 [[experience]]
   title = "Fellowship"
