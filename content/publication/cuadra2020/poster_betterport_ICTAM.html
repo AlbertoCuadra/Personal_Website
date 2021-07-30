@@ -92,7 +92,7 @@ border-radius: 2mm;
 }
 caption {
 margin-bottom: 10px;
-font-size: 25pt;
+font-size: 26pt;
 font-style: italic;
 }
 
@@ -117,7 +117,7 @@ th {
   padding-right: 5mm;
 }
 .caption {
-font-size: 25pt;
+font-size: 26pt;
 font-style: italic;
 padding-top: 0;
 }
@@ -132,7 +132,7 @@ padding: 0px;
 }
 .outer {
 width: 33.1in;
-height: calc(46.8in *  (1 - 0.18 - 0.089 - 0.01) );
+height: calc(46.8in *  (1 - 0.18 - 0.085 - 0.01) );
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
 -moz-column-count: 3; /* Firefox */
 column-count: 3;
@@ -327,8 +327,8 @@ padding: 0cm;
 }
 .main_bottom {
 width: 33.1in;
-height: calc(46.8in * 0.089);
-margin-top: calc(46.8in * (1 - 0.089));
+height: calc(46.8in * 0.085);
+margin-top: calc(46.8in * (1 - 0.085));
 position: absolute;
 background-color: #0b4545;
 background-image: linear-gradient(#008080 10%, #0b4545);
@@ -411,7 +411,7 @@ Alberto Cuadra,<sup></sup>
 \mathcal{P}_d = \frac{p_d}{p_u} =\frac{\gamma {\cal M}_u^2 +1+ \gamma\left[({\cal M}_u^{2}-1)^2 -4 Q {\cal M}_u^{2} \right]^{1/2}}{\gamma + 1},
 \label{eq:Pd}
 \end{equation*}\]</span>
-for density and pressure, respectively. However, <strong>What would happen in case we have a non-homogeneous mixture?</strong> A better understanding of this can help to design efficient supersonic combustors <span class="citation">(<a href="#ref-Pratt1991" role="doc-biblioref">Pratt, Humphrey, and Glenn 1991</a>; <a href="#ref-Urzay2018" role="doc-biblioref">Urzay 2018</a>; <a href="#ref-Frolov2019" role="doc-biblioref">Frolov et al. 2019</a>)</span>. Figure <a href="#fig:Figure1">1</a> is a sketch of the problem posed. The wrinkling of the detonation front can come from two sources: density perturbations and/or heat release perturbations. This may have constructive or destructive interference as shown in Fig.<a href="#fig:Figure2">2</a>. <strong>Enhancement of the propagation speed has been observed in gaseous mixtures as a result of the turbulence induced by the detonation front wrinkling</strong> <span class="citation">(<a href="#ref-Mi2017" role="doc-biblioref">Mi et al. 2017</a>; <a href="#ref-Mi2017b" role="doc-biblioref">Mi, Timofeev, and Higgins 2017</a>; <a href="#ref-Meadows2019" role="doc-biblioref">Meadows and Subramanian 2019</a>; <a href="#ref-Prakash2019c" role="doc-biblioref">Prakash and Raman 2019</a>)</span>.</p>
+for density and pressure, respectively. However, <strong>What would happen in case we have a non-homogeneous mixture?</strong> A better understanding of this can help to design efficient supersonic combustors <span class="citation">(<a href="#ref-Urzay2018" role="doc-biblioref">Urzay 2018</a>; <a href="#ref-Frolov2019" role="doc-biblioref">Frolov et al. 2019</a>)</span>. Figure <a href="#fig:Figure1">1</a> is a sketch of the problem posed. The wrinkling of the detonation front can come from two sources: density perturbations and/or heat release perturbations. This may have constructive or destructive interference as shown in Fig.<a href="#fig:Figure2">2</a>. <strong>Enhancement of the propagation speed has been observed in gaseous mixtures as a result of the turbulence induced by the detonation front wrinkling</strong> <span class="citation">(<a href="#ref-Mi2017" role="doc-biblioref">Mi et al. 2017</a>; <a href="#ref-Mi2017b" role="doc-biblioref">Mi, Timofeev, and Higgins 2017</a>; <a href="#ref-Meadows2019" role="doc-biblioref">Meadows and Subramanian 2019</a>; <a href="#ref-Prakash2019c" role="doc-biblioref">Prakash and Raman 2019</a>)</span>.</p>
 <div id="objectives" class="section level2">
 <h2>Objectives</h2>
 <ol style="list-style-type: decimal">
@@ -428,13 +428,13 @@ for density and pressure, respectively. However, <strong>What would happen in ca
 <li>Obtain weighted integrals considering an <strong>isotropic spectrum</strong>: Fourier analysis.</li>
 <li>Obtain corrections to Rankine–Hugoniot equations and speed propagation: Averaged turbulent conservation equations.</li>
 </ol>
-<div class="figure" style="text-align: left"><span id="fig:Figure1"></span>
+<div class="figure" style="text-align: justify"><span id="fig:Figure1"></span>
 <img src="Figures/Figure1_ICTAM.svg" alt="\label{Figure1}Sketch of the corrugated detonation front through a heterogeneous gaseous mixture, where the variation of the local fuel mass fraction satisfies $\delta Yu| = |Yu - \langle Yu \rangle | \ll 1$ in order to apply linear theory. The detonation length $\ell$ is assumed to be much smaller than the characteristic upstream length $k_o^{-1}$." width="100%" />
 <p class="caption">
 Figure 1: Sketch of the corrugated detonation front through a heterogeneous gaseous mixture, where the variation of the local fuel mass fraction satisfies <span class="math inline">\(\delta Yu| = |Yu - \langle Yu \rangle | \ll 1\)</span> in order to apply linear theory. The detonation length <span class="math inline">\(\ell\)</span> is assumed to be much smaller than the characteristic upstream length <span class="math inline">\(k_o^{-1}\)</span>.
 </p>
 </div>
-<div class="figure" style="text-align: left"><span id="fig:Figure2"></span>
+<div class="figure" style="text-align: justify"><span id="fig:Figure2"></span>
 <img src="Figures/Figure2_ICTAM_1.svg" alt="\label{Figure2}Variation of density (a) and heat release (b) with the fuel mass fraction for representative fuel-air mixtures. The dashed line represents the stoichiometric condition given by $Y_{u}=Y_{st}$ $(\phi = 1)$. Computations are given for hydrogen, methane, acetylene and propane at $300$ K and $10^5$ Pa in fresh conditions. The associated stoichiometric fuel mass fractions are $Y_{st}=0.0285$, $0.0552$, $0.0705$ and $0.0603$, respectively. The sketch depicted at the bottom shows the constructive and destructive interference for CH$_4$ (blue line) as consequence of the weak deviations of the fuel mass fraction." width="100%" />
 <p class="caption">
 Figure 2: Variation of density (a) and heat release (b) with the fuel mass fraction for representative fuel-air mixtures. The dashed line represents the stoichiometric condition given by <span class="math inline">\(Y_{u}=Y_{st}\)</span> <span class="math inline">\((\phi = 1)\)</span>. Computations are given for hydrogen, methane, acetylene and propane at <span class="math inline">\(300\)</span> K and <span class="math inline">\(10^5\)</span> Pa in fresh conditions. The associated stoichiometric fuel mass fractions are <span class="math inline">\(Y_{st}=0.0285\)</span>, <span class="math inline">\(0.0552\)</span>, <span class="math inline">\(0.0705\)</span> and <span class="math inline">\(0.0603\)</span>, respectively. The sketch depicted at the bottom shows the constructive and destructive interference for CH<span class="math inline">\(_4\)</span> (blue line) as consequence of the weak deviations of the fuel mass fraction.
@@ -454,34 +454,43 @@ where the non-uniformity parameter
 <span class="math display">\[\begin{equation}
 \bar{\epsilon}=\sqrt{1-\frac{\langle Y_u\rangle^2}{\langle Y_u^2\rangle}}
 \end{equation}\]</span>
-is introduced to characterize the average fuel mass fraction fluctuations. Summarizing some results, roughly we see that density is lower, pressure is lower and velocity is higher. <strong>In conclusion the flow given by the perturbation is amplifying the expansion of the hot products in the combustion process by the turbulent properties.</strong></p>
-<div class="figure" style="text-align: left"><span id="fig:Figure3"></span>
+is introduced to characterize the average fuel mass fraction fluctuations. Summarizing some results, roughly we see that density is lower, pressure is lower and velocity is higher.</p>
+<div class="figure" style="text-align: justify"><span id="fig:Figure3"></span>
 <img src="Figures/Figure3.svg" alt="\label{Figure3}Left: Sketch for the Rankine-Hugoniot curves. In blue and orange we have the one-dimensional curve. Right: Computations for $\gamma=1.2$, $\mathcal{M}_u = 1.2\mathcal{M}_{
 m cj}$, $Q = 1$, $H = [-1:1]$ and $W = [-1:1]$." width="100%" />
 <p class="caption">
 Figure 3: Left: Sketch for the Rankine-Hugoniot curves. In blue and orange we have the one-dimensional curve. Right: Computations for <span class="math inline">\(\gamma=1.2\)</span>, <span class="math inline">\(\mathcal{M}_u = 1.2\mathcal{M}_{ m cj}\)</span>, <span class="math inline">\(Q = 1\)</span>, <span class="math inline">\(H = [-1:1]\)</span> and <span class="math inline">\(W = [-1:1]\)</span>.
 </p>
 </div>
-<div class="figure" style="text-align: left"><span id="fig:Figure9"></span>
-<img src="Figures/Fig9.svg" alt="\label{Figure9}Left: Three-dimensional second-order correction to the RH jump conditions (a) $\delta \mathcal{R}$, (b) $\delta \mathcal{P}$, (c) $\delta \mathcal{U}$, and (d) $\delta \mathcal{M}$ as a function of the overdrive parameter $\mathcal{M}_u/\mathcal{M}_{\rm cj}-1$. Computations correspond to $\gamma=1.2$, $Q = 1$, and $|W|\gg|H|$ (black line), $|H|\gg|W|$ (green line), $W=H$ (orange line) and $W=-H$ (blue line)." width="100%" />
+<div class="figure" style="text-align: justify"><span id="fig:Figure9"></span>
+<img src="Figures/Fig9.svg" alt="\label{Figure9}Left: Three-dimensional second-order correction to the RH jump conditions (a) $\delta \mathcal{R}$, (b) $\delta \mathcal{P}$, (c) $\delta \mathcal{U}$, and (d) $\delta \mathcal{M}$ as a function of the overdrive parameter $\mathcal{M}_u/\mathcal{M}_{\rm cj}-1$. Computations correspond to &lt;br /&gt;$\gamma=1.2$, $Q = 1$, and $|W|\gg|H|$ (black line), $|H|\gg|W|$ (green line), $W=H$ (orange line) and $W=-H$ (blue line)." width="100%" />
 <p class="caption">
-Figure 4: Left: Three-dimensional second-order correction to the RH jump conditions (a) <span class="math inline">\(\delta \mathcal{R}\)</span>, (b) <span class="math inline">\(\delta \mathcal{P}\)</span>, (c) <span class="math inline">\(\delta \mathcal{U}\)</span>, and (d) <span class="math inline">\(\delta \mathcal{M}\)</span> as a function of the overdrive parameter <span class="math inline">\(\mathcal{M}_u/\mathcal{M}_{\rm cj}-1\)</span>. Computations correspond to <span class="math inline">\(\gamma=1.2\)</span>, <span class="math inline">\(Q = 1\)</span>, and <span class="math inline">\(|W|\gg|H|\)</span> (black line), <span class="math inline">\(|H|\gg|W|\)</span> (green line), <span class="math inline">\(W=H\)</span> (orange line) and <span class="math inline">\(W=-H\)</span> (blue line).
+Figure 4: Left: Three-dimensional second-order correction to the RH jump conditions (a) <span class="math inline">\(\delta \mathcal{R}\)</span>, (b) <span class="math inline">\(\delta \mathcal{P}\)</span>, (c) <span class="math inline">\(\delta \mathcal{U}\)</span>, and (d) <span class="math inline">\(\delta \mathcal{M}\)</span> as a function of the overdrive parameter <span class="math inline">\(\mathcal{M}_u/\mathcal{M}_{\rm cj}-1\)</span>. Computations correspond to <br /><span class="math inline">\(\gamma=1.2\)</span>, <span class="math inline">\(Q = 1\)</span>, and <span class="math inline">\(|W|\gg|H|\)</span> (black line), <span class="math inline">\(|H|\gg|W|\)</span> (green line), <span class="math inline">\(W=H\)</span> (orange line) and <span class="math inline">\(W=-H\)</span> (blue line).
 </p>
 </div>
-<div class="figure" style="text-align: left"><span id="fig:Figure4"></span>
+<div class="figure" style="text-align: justify"><span id="fig:Figure4"></span>
 <img src="Figures/Figure4.svg" alt="\label{Figure4}Left: Three-dimensional second-order correction of the detonation propagation velocity $\delta \mathcal{S}$, according to $\left.\delta {\cal S}\right|_{\delta\langle \mathcal{M}_d\rangle=0}$, as a function of the overdrive parameter $\mathcal{M}_u/\mathcal{M}_{
 m cj}-1$. Computations are provided for $\gamma= 1.2$, $\tilde{Q} = 1$ (a) and $\tilde{Q} = 10$ (b) evaluated for $|W|\gg|H|$ (black line), $|H|\gg|W|$ (green line), $W=H$ (orange line) and $W=-H$ (blue line)." width="100%" />
 <p class="caption">
 Figure 5: Left: Three-dimensional second-order correction of the detonation propagation velocity <span class="math inline">\(\delta \mathcal{S}\)</span>, according to <span class="math inline">\(\left.\delta {\cal S}\right|_{\delta\langle \mathcal{M}_d\rangle=0}\)</span>, as a function of the overdrive parameter <span class="math inline">\(\mathcal{M}_u/\mathcal{M}_{ m cj}-1\)</span>. Computations are provided for <span class="math inline">\(\gamma= 1.2\)</span>, <span class="math inline">\(\tilde{Q} = 1\)</span> (a) and <span class="math inline">\(\tilde{Q} = 10\)</span> (b) evaluated for <span class="math inline">\(|W|\gg|H|\)</span> (black line), <span class="math inline">\(|H|\gg|W|\)</span> (green line), <span class="math inline">\(W=H\)</span> (orange line) and <span class="math inline">\(W=-H\)</span> (blue line).
 </p>
 </div>
-<p><strong>Detonations of heterogeneous gaseous mixture have faster propagation speeds compared with the homogeneous case because the turbulent flow downstream overexpands.</strong></p>
+</div>
+<div id="conclusion" class="section level1">
+<h1>Conclusion</h1>
+<table>
+<tbody>
+<tr class="odd">
+<td>In conclusion the flow given by the perturbation is amplifying the expansion of the hot products in the combustion process by the turbulent properties. Detonations of <strong>heterogeneous gaseous mixture have faster propagation speeds</strong> compared with the homogeneous case because the turbulent flow downstream is over-expanded.</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="references" class="section level1">
 <h1>References</h1>
 <style>
 #main-img-left {
- width: 40%;
+ width: 39%;
 }
 #main-img-center {
  width: 7%;
@@ -505,9 +514,6 @@ Mi, XiaoCheng, Evgeny V Timofeev, and Andrew J Higgins. 2017. <span>“Effect of
 </div>
 <div id="ref-Prakash2019c" class="csl-entry">
 Prakash, Supraj, and S Raman. 2019. <span>“Detonation Propagation Through Inhomogeneous Fuel-Air Mixtures.”</span> In <em>International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, 81.
-</div>
-<div id="ref-Pratt1991" class="csl-entry">
-Pratt, David T, Joseph W Humphrey, and Dennis E Glenn. 1991. <span>“Morphology of Standing Oblique Detonation Waves.”</span> <em>Journal of Propulsion and Power</em> 7 (5): 837–45.
 </div>
 <div id="ref-Urzay2018" class="csl-entry">
 Urzay, Javier. 2018. <span>“Supersonic Combustion in Air-Breathing Propulsion Systems for Hypersonic Flight.”</span> <em>Annual Review of Fluid Mechanics</em> 50: 593–627.
