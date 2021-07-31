@@ -1,7 +1,7 @@
 /* To number publications. Set c1 as total number of publications */
 /*
 .universal-wrapper {
-counter-reset: c1 4; /* Set this c1 manually */ 
+counter-reset: c1 4;  Set this c1 manually
 }
 .div.col-12.col-lg-8{
 counter-increment: c1 -1;
