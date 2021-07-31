@@ -61,5 +61,5 @@ url_video: ""
 math: true
 ---
 
-![Alt text for my gif](./sketch.gif)
+![Sketch detonation front from homogeneous gaseous mixture to heterogeneous gaseous mixture](./sketch.gif)
 
