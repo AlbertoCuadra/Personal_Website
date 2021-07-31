@@ -1,22 +1,4 @@
-#profile {
-
-  text-align: left;
-  color: black;
-  
-  h1 {
-    font-size: 4rem;
-    color: black;
-  }
-  
-  h2 {
-    font-size: 2.5rem;
-  }
-  
-  .black-bg-text {
-    background-color: black;
-    padding: 5px;
-  }
-  
+#profile { 
   .avatar-circle {
   opacity: 0;
   position: relative;
@@ -32,9 +14,6 @@
     -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
     animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
     
-    h2 {
-      color: black;
-    }
   }
   
   @-webkit-keyframes slide-right {
