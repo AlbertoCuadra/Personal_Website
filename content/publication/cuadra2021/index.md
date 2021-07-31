@@ -1,5 +1,5 @@
 ---
-title: "Development of a wider-scope thermochemical code. In preparation"
+title: "Development of a wider-scope thermochemical code"
 authors:
 - admin
 - Marcos Vera
@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Work in progress"
 
 abstract:
 
