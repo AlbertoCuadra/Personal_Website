@@ -7,11 +7,11 @@
   }
 }
 
-.biography-title {
+#biography-title {
   animation: slide-from-right 1s forwards;
 }
 
-.main-content {
+#main-content {
   animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   animation-delay: 100ms;
 }
@@ -38,13 +38,13 @@
   }
 }
 
-.interests-div {
+#interests-div {
   opacity: 0;
   animation: fade-in 1s forwards;
   animation-delay: 1s;
 }
 
-.education-div {
+#education-div {
   opacity: 0;
   animation: fade-in 1s forwards;
   animation-delay: 1.5s;
