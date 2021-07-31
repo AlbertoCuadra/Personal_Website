@@ -50,7 +50,7 @@ url_code: ''
 url_dataset: ''
 url_poster: 'https://htmlpreview.github.io/?https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/poster_betterport_ICTAM.html'
 url_project: ''
-url_slides: 'https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/Slides_ICTAM2021.pdf'
+url_slides: "https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/Slides_ICTAM2021.pdf"
 url_source: ''
 url_video: ''
 
