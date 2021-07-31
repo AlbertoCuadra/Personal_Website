@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "Accepted in Physics of Fluids"
+publication_short: "Accepted in Phys. Fluids"
 
 abstract: "In this study, the interaction between a weakly turbulent free stream and a hypersonic normal shock wave is investigated theoretically by using linear interaction analysis (LIA). The formulation is developed in the limit in which the thickness of the thermochemical nonequilibrium region downstream of the shock front, where relaxation toward vibrational and chemical equilibrium occurs, is assumed to be much smaller than the characteristic size of the wrinkles of the shock caused by turbulence. As a result, upon crossing the shock front and the thin thermochemical nonequilibrium region trailing behind, the post-shock gas attains chemical and vibrational equilibrium. Modified Rankine-Hugoniot jump conditions that account for these thermochemical effects are derived and employed in a Fourier analysis of a shock interacting with three-dimensional isotropic vorticity disturbances. This provides the modal structure of the turbulent post-shock gas arising from the interaction, along with integral formulas for the amplification of enstrophy, concentration variance and turbulent kinetic energy across the shock. Besides confirming the known effects of thermochemistry in decreasing the mean values of the post-shock temperature and velocity, these LIA results indicate that the vorticity, energy and anisotropy of the turbulence are much more amplified through the shock than in the thermochemically frozen (calorically perfect) case."
 
