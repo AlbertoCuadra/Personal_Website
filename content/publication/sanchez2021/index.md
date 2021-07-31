@@ -30,6 +30,7 @@ abstract:
 tags:
 - Numerical code
 - App
+- Explosives
 featured: false
 
 # links:
