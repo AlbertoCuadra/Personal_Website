@@ -2,7 +2,7 @@
 .universal-wrapper {
 counter-reset: c1 4; /* Set this c1 manually */ 
 }
-.div.col-12.col-lg-8
+.div.col-12.col-lg-8{
 counter-increment: c1 -1;
 }
 .article-metadata.li-cite-author:before {
