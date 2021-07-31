@@ -1,6 +1,7 @@
 ---
 title: "Effect of equivalence ratio fluctuations on planar detonation discontinuities"
 authors:
+- 1
 - admin
 - César Huete
 - Marcos Vera
