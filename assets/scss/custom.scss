@@ -1,6 +1,6 @@
 /* To number publications. Set c1 as total number of publications */
 .universal-wrapper {
-counter-reset: c1 1; /* Set this c1 manually */ 
+counter-reset: c1 4; /* Set this c1 manually */ 
 }
 .grid-sizer.col-lg-12.isotope-item {
 counter-increment: c1 -1;
