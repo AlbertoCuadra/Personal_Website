@@ -1,16 +1,14 @@
+/ To number publications. Set c1 as total number of publications /
 .universal-wrapper {
-list-style: none;
-counter-reset: c1 3;
+counter-reset: c1 3; / Set this c1 manually /
 }
 .grid-sizer.col-lg-12.isotope-item {
 counter-increment: c1 -1;
-margin-bottom: 5px;
 }
 .article-metadata.li-cite-author:before {
-margin-right: 10px;
-content: counter(c1) " - ";
-border-radius: 100%;
-width: 1.2em;
+content: counter(c1) ".";
+font-weight: bold;
+margin-right: 5px;
 text-align: right;
 display: inline-block;
 }
