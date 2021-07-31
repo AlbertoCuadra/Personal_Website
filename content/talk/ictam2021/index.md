@@ -39,6 +39,7 @@ links:
   url: https://www.linkedin.com/in/albertocuadralara/
 url_code: ""
 url_poster: https://htmlpreview.github.io/?https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/poster_betterport_ICTAM.html
+url_slides: "https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/Slides_ICTAM2021.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
