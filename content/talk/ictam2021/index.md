@@ -42,6 +42,8 @@ url_poster: https://htmlpreview.github.io/?https://github.com/AlbertoCuadra/Pers
 url_slides: "https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/Slides_ICTAM2021.pdf"
 url_video: ""
 
+![Alt text for my gif](/featured.gif)
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
