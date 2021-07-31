@@ -61,7 +61,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "./assets/scss/custompublication.scss"
  
  # CSS class.
  css_class = ""
