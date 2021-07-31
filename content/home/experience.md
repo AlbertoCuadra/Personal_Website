@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """ Course: Explosion dynamics"""
 
 [[experience]]
-  title = "Fellowship"
+  title = "MSc Fellow"
   company = "Universidad Carlos III de Madrid"
   company_url = ""
   location = "Leganés"
