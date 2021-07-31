@@ -7,7 +7,6 @@ counter-increment: c1 -1;
 }
 .article-metadata.li-cite-author:before {
 content: counter(c1) ".";
-font-weight: bold;
 margin-right: 5px;
 text-align: right;
 display: inline-block;
