@@ -28,7 +28,11 @@ date_end: "2019-06-20T15:00:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [admin, Marcos Vera]
-tags: []
+tags:
+- Numerical code
+- App
+- Thermochemistry
+- Shock wave
 
 # Is this a featured talk? (true/false)
 featured: false
