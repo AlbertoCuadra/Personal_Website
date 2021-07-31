@@ -61,5 +61,5 @@ url_video: ""
 math: true
 ---
 
-![Alt text for my gif](./featured.gif)
+![Alt text for my gif](./sketch.gif)
 
