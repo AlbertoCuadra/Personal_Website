@@ -77,3 +77,19 @@
     } 
   }
 }
+
+
+/ To number publications. Set c1 as total number of publications /
+.universal-wrapper {
+counter-reset: c1 3; / Set this c1 manually /
+}
+.grid-sizer.col-lg-12.isotope-item {
+counter-increment: c1 -1;
+}
+.article-metadata.li-cite-author:before {
+content: counter(c1) ".";
+font-weight: bold;
+margin-right: 5px;
+text-align: right;
+display: inline-block;
+}
