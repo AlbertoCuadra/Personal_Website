@@ -1,9 +1,4 @@
 #profile { 
-  h1 {
-    text-align: center;
-    font-size: 2.5rem;
-  }
-  
   .avatar-circle {
   opacity: 0;
   position: relative;
@@ -20,7 +15,8 @@
     animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
     
     h1 {
-    
+      text-align: center;
+      font-size: 2.5rem;
     } 
   }
   
@@ -48,41 +44,41 @@
     .fa-envelope {
       opacity: 0;
       -webkit-animation: grow 1s ease forwards;
-              animation: grow 1.5s ease forwards;
-      -webkit-animation-delay: 0.8s;
-              animation-delay: 0.8s;
+              animation: grow 1s ease forwards;
+      -webkit-animation-delay: 1s;
+              animation-delay: 1s;
     }
     
     .fa-graduation-cap {
       opacity: 0;
       -webkit-animation: grow 1s ease forwards;
               animation: grow 1s ease forwards;
-      -webkit-animation-delay: 1.2s;
-              animation-delay: 1.2s;
+      -webkit-animation-delay: 1.25s;
+              animation-delay: 1.25s;
     }
     
     .fa-github {
       opacity: 0;
       -webkit-animation: grow 1s ease forwards;
               animation: grow 1s ease forwards;
-      -webkit-animation-delay: 1.6s;
-              animation-delay: 1.6s;
+      -webkit-animation-delay: 1.5s;
+              animation-delay: 1.5s;
     }
     
     .fa-researchgate {
       opacity: 0;
       -webkit-animation: grow 1s ease forwards;
               animation: grow 1s ease forwards;
-      -webkit-animation-delay: 2s;
-              animation-delay: 2s;
+      -webkit-animation-delay: 1.75s;
+              animation-delay: 1.75s;
     }
     
     .fa-linkedin {
       opacity: 0;
       -webkit-animation: grow 1s ease forwards;
               animation: grow 1s ease forwards;
-      -webkit-animation-delay: 2.4s;
-              animation-delay: 2.4s;
+      -webkit-animation-delay: 2s;
+              animation-delay: 2s;
     }
     
     @-webkit-keyframes grow {
