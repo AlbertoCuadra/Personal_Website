@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}} Working on the first post "Pre-release of Combustion PyToolbox: a wider-scope thermochemical tool". {{% /alert %}}
+{{% alert note %}} Working on the first post "Pre-release of Combustion PyToolbox: A Python based thermochemical code". {{% /alert %}}
