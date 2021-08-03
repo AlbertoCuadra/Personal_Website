@@ -20,9 +20,11 @@ The code computes the equilibrium composition by minimization of the Gibbs–Hel
 
 
 
-On this page, you'll find some examples of the types of technical content that can be obtained with Combustion PyToolbox.
+
 
 ## Examples
+
+On this section, you'll find some examples of the types of technical content that can be obtained with Combustion PyToolbox.
 
 ### Code
 
