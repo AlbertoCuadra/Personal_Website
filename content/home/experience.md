@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Lab Professor"
   company = "Universidad Carlos III de Madrid"
   company_url = ""
-  company_logo = "assets/media/icons/brands/logo-uc3m.svg"
+  company_logo = {{% github_rodrigoalcarazdelaosa_lottie src="https://github.com/AlbertoCuadra/Personal_Website/tree/master/assets/media/icons/brands/animation-uc3m.json" width="100%" %}}
   location = "Leganés"
   date_start = "2020-03-01"
   date_end = ""
