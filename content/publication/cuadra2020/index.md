@@ -76,3 +76,15 @@ projects: []
 slides: example
 ---
 
+
+<div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://github.com/AlbertoCuadra/Personal_Website/tree/master/content/publication/cuadra2020/cuadra2020.pdf"}},
+			metaData:{fileName: "cuadra2020.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
