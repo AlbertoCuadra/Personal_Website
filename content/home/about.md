@@ -12,3 +12,7 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+{{% src="https://assets5.lottiefiles.com/private_files/lf30_tglowewx.json" width="100%" %}}
+
+
