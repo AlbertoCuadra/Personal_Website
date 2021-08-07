@@ -76,11 +76,8 @@ projects: []
 slides: example
 ---
 
-
 <iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&
-         url=https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/cuadra2020.pdf
-         #toolbar=0&scrollbar=0"
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/cuadra2020.pdf#toolbar=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
     height="100%"
