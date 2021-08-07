@@ -84,7 +84,7 @@ slides: example
 		var adobeDCView = new AdobeDC.View({clientId: "31e71b637ba2416191506b205bd76fcd", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://drive.google.com/file/d/1nihb86pQFu2s_D80ma6rvXjHa-nNO1_u/view?usp=sharing"}},
-			metaData:{fileName: "cuadra2020.pdf"}
+			metaData:{fileName: "confirmacionDelPedido_93587628.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
