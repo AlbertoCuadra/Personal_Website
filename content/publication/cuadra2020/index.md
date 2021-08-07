@@ -81,9 +81,9 @@ slides: example
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "31e71b637ba2416191506b205bd76fcd", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "b991815b93094b9faf4e027c93daf276", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/cuadra.pdf"}},
+			content:{location: {url: "AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/cuadra.pdf"}},
 			metaData:{fileName: "cuadra2020.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
