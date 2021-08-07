@@ -76,4 +76,4 @@ projects: []
 slides: example
 ---
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/cuadra2020.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/publication/cuadra2020/cuadra2020.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
