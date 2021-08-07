@@ -13,6 +13,4 @@ title = "Biography"
 author = "admin"
 +++
 
-{{% src="https://assets5.lottiefiles.com/packages/lf20_uz7ks0bz.json" width="100%" %}}
-
 
