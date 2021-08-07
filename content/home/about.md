@@ -13,6 +13,6 @@ title = "Biography"
 author = "admin"
 +++
 
-{{% src="https://assets5.lottiefiles.com/private_files/lf30_tglowewx.json" width="100%" %}}
+{{% src="https://github.com/AlbertoCuadra/Personal_Website/tree/master/assets/lottie/loading.json" width="100%" %}}
 
 
