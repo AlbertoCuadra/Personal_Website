@@ -62,6 +62,6 @@ math: true
 ---
 
 <figure>
-<img src="./sketch.gif" alt="Trulli" style="width:100%">
+<img src="./sketch_crop.gif" alt="Trulli" style="width:100%">
 <figcaption align = "justify"><b>Fig.1 - Sketch detonation front from homogeneous gaseous mixture to heterogeneous gaseous mixture.</b></figcaption>
 </figure>
