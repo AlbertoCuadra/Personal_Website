@@ -1,3 +1,7 @@
+<figure>
+<img src="./Figures/featured.svg" alt="Trulli" style="width:75%">
+</figure>
+
 ---
 title: "Effect of equivalence ratio fluctuations on planar detonation discontinuities"
 authors:
