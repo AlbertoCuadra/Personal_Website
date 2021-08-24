@@ -1,7 +1,3 @@
-<figure>
-<img src="./Figures/featured.svg" alt="Trulli" style="width:75%">
-</figure>
-
 ---
 title: "Effect of equivalence ratio fluctuations on planar detonation discontinuities"
 authors:
@@ -24,6 +20,10 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*J. Fluid Mech 903, A30*"
 publication_short: ""
+
+<figure>
+<img src="./Figures/featured.svg" alt="Trulli" style="width:75%">
+</figure>
 
 abstract: We propose a linear asymptotic theory to describe the propagation of planar detonation fronts through heterogeneous mixtures of reactive gases consisting of random fluctuations in the fuel mass fraction. The analysis starts with the derivation of the transfer functions that relate the upstream fuel mass fraction inhomogeneities with the burnt-gas perturbations via normal mode analysis. These results are then used in a Fourier analysis of a detonation wave interacting with two- and three-dimensional isotropic heterogeneous fields. This yields integral formulae for the turbulent kinetic energy, sonic energy and averaged vorticity and entropy production rates. Second-order corrections for the turbulent Rankine–Hugoniot conditions are also obtained, along with analytical expressions for the deviation of the detonation velocity with respect to that of the equivalent homogeneous mixture. Upstream inhomogeneities are found to speed up the detonation front in the vast majority of scenarios studied, with a velocity amplification factor that depends on the properties of the fuel–air mixture, particularly on the variation of the density and the heat release with the fuel mass fraction.
 
