@@ -15,7 +15,8 @@ This information can be very useful for many type of problems, e.g., .....
 The resolution method is very easy for reactions that involve only a few number of species, but the complexity increases as the number of species increase as well, giving a problem that can be tought to resolve by hand.
 In the late 1940's appeared the first themochemical code developed at the NACA Lewis Flight Propulsion Laboratory (nowadays, known as NASA) with the initial aim of evaluating rocket performance of various potential propellants.
 With this precursor idea started the carrer on the development of themochemical codes. The most relevant open-source program is CANTERA. For students, CANTERA can be a steep path until you understand the basics.
-In order to streamline the learning process. Currently, the code solves two chemical equilibrium problems (TP and HP transformations; where T denotes temperature, P pressure and H enthalpy), assuming always ideal gases in all cases.
+In order to streamline the learning process, we have developed another open-source thermochemical code equipped with a Graphic User Interface. Currently, the code solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), always assuming ideal gases in all cases.
+
 The code computes the equilibrium composition by minimization of the Gibbs–Helmholtz free energy, and employs NASA’s 9-coefficient polynomial fits to evaluate the thermodynamic properties.
 
 
