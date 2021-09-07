@@ -9,7 +9,7 @@ authors:
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
 # Center for Turbulence Research, Stanford University, Stanford, CA 94305,USA
 date: "2021-01-24T00:00:00Z"
-doi: ""
+doi: "10.1063/5.0059948"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -21,10 +21,10 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "Accepted in Phys. Fluids **(featured article)**"
+publication: "Physics of Fluids 33, 086111 (2021) **(featured article)**"
+publication_short: "Physics of Fluids 33, 086111 (2021) **(featured article)**"
 
-abstract: "In this study, the interaction between a weakly turbulent free stream and a hypersonic normal shock wave is investigated theoretically by using linear interaction analysis (LIA). The formulation is developed in the limit in which the thickness of the thermochemical nonequilibrium region downstream of the shock front, where relaxation toward vibrational and chemical equilibrium occurs, is assumed to be much smaller than the characteristic size of the wrinkles of the shock caused by turbulence. As a result, upon crossing the shock front and the thin thermochemical nonequilibrium region trailing behind, the post-shock gas attains chemical and vibrational equilibrium. Modified Rankine-Hugoniot jump conditions that account for these thermochemical effects are derived and employed in a Fourier analysis of a shock interacting with three-dimensional isotropic vorticity disturbances. This provides the modal structure of the turbulent post-shock gas arising from the interaction, along with integral formulas for the amplification of enstrophy, concentration variance and turbulent kinetic energy across the shock. Besides confirming the known effects of thermochemistry in decreasing the mean values of the post-shock temperature and velocity, these LIA results indicate that the vorticity, energy and anisotropy of the turbulence are much more amplified through the shock than in the thermochemically frozen (calorically perfect) case."
+abstract: "The interaction between a weakly turbulent free stream and a hypersonic shock wave is investigated theoretically by using linear interaction analysis (LIA). The formulation is developed in the limit in which the thickness of the thermochemical nonequilibrium region downstream of the shock, where relaxation toward vibrational and chemical equilibrium occurs, is assumed to be much smaller than the characteristic size of the shock wrinkles caused by turbulence. Modified Rankine-Hugoniot jump conditions that account for dissociation and vibrational excitation are derived and employed in a Fourier analysis of a shock interacting with three-dimensional isotropic vortical disturbances. This provides the modal structure of the post-shock gas arising from the interaction, along with integral formulas for the amplification of enstrophy, concentration variance, turbulent kinetic energy (TKE) and turbulence intensity across the shock. Besides confirming known endothermic effects of dissociation and vibrational excitation in decreasing the mean post-shock temperature and velocity, these LIA results indicate that the enstrophy, anisotropy, intensity, and TKE of the fluctuations are much more amplified through the shock than in the thermochemically frozen case. Additionally, the turbulent Reynolds number is amplified across the shock at hypersonic Mach numbers in the presence of dissociation and vibrational excitation, as opposed to the attenuation observed in the themochemically frozen case. These results suggest that turbulence may persist and get augmented across hypersonic shock waves despite the high post-shock temperatures."
 
 #Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
