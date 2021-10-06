@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: acuadralara.com
+Token: c3136fd5e509402448a94cfa783c462b7e5fd8ba4194923cd1342a149e351467
