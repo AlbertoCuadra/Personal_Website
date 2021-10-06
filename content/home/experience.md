@@ -17,16 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[experience]]
-  title = "Pre-doctoral Fellow"
-  company = "Universidad Carlos III de Madrid"
-  company_url = "http://fluidosuc3m.es/"
-  company_logo = "assets/media/icons/brands/logo-uc3m.svg"
-  location = "Leganés"
-  date_start = "2019-03-01"
-  date_end = ""
-  description = """ """
   
 [[experience]]
   title = "Lab Professor"
@@ -53,6 +43,26 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Course: Explosion dynamics"""
 
+[[experience]]
+  title = "Pre-doctoral Fellow"
+  company = "Universidad Carlos III de Madrid"
+  company_url = "http://fluidosuc3m.es/"
+  company_logo = "assets/media/icons/brands/logo-uc3m.svg"
+  location = "Leganés"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """ """
+  
+ [[experience]]
+  title = "Research Technician in Fluid Mechanics"
+  company = "Universidad Carlos III de Madrid"
+  company_url = "http://fluidosuc3m.es/"
+  company_logo = "assets/media/icons/brands/logo-uc3m.svg"
+  location = "Leganés"
+  date_start = "2019-03-01"
+  date_end = "2019-06-30"
+  description = """ """
+  
 [[experience]]
   title = "MSc Fellow"
   company = "Universidad Carlos III de Madrid"
