@@ -3,6 +3,7 @@ title: "SimEx: Explosives Simulator"
 authors:
 - Juan Sánchez-Monreal
 - admin
+- César Huete
 - Marcos Vera
 
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
