@@ -11,7 +11,7 @@ date: "2021-07-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2100-02-01T00:00:00Z"
+publishDate: "2019-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,15 +36,17 @@ featured: false
 
 # links:
 # - name: ""
-links:
-- icon: researchgate
-  icon_pack: fab
-  name: Follow
-  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
-- icon: linkedin
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/albertocuadralara/
+#links:
+#- icon: researchgate
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
+#- icon: linkedin
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.linkedin.com/in/albertocuadralara/
+
+
 #   url: ""
 url_pdf:
 url_preprint:
