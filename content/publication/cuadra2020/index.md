@@ -34,15 +34,16 @@ featured: false
 
 # links:
 # - name: ""
-links:
-- icon: researchgate
-  icon_pack: fab
-  name: Follow
-  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
-- icon: linkedin
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/albertocuadralara/
+#links:
+#- icon: researchgate
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
+#- icon: linkedin
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.linkedin.com/in/albertocuadralara/
+
 #   url: ""
 url_pdf: ''
 url_preprint: "https://www.researchgate.net/profile/Cesar-Huete/publication/343384770_Effect_of_equivalence_ratio_fluctuations_on_planar_detonation_discontinuities/links/5f4130e5299bf13404e138e1/Effect-of-equivalence-ratio-fluctuations-on-planar-detonation-discontinuities.pdf?_sg%5B0%5D=qmbEP6uV4rwOVkRlNz_pXzVpmGu9hh2GZH7SlwX5i_T6w_Mzsvi3yLbtwKOix9opE74wza7xQIYKIIKdvzA0kQ.jLQRPX0QVCKKbivLRo78NoUVe4fBV5ygEyHZJvtP-GbeUlMqR-EmXQhvq4hSxYEEgkSuHAmRM6xhGbYmxtursw&_sg%5B1%5D=Et4241s4wlMZgMwvMyvWnHQUAIdRrQVx-h4prpfU4EIx9Oi2Yuvi5L8LMdBcPz8LG1Yyr5Isov1URupYr7Ye8OcfS14OBRh9MXIzgxf9lvQl.jLQRPX0QVCKKbivLRo78NoUVe4fBV5ygEyHZJvtP-GbeUlMqR-EmXQhvq4hSxYEEgkSuHAmRM6xhGbYmxtursw&_sg%5B2%5D=JE2kaL1r1xU6cpS0nKcIN9PhWhic-vvHeLXctb24jQ7CDJxOarAheKsWqYRrb_hqzTthYfr0prBH6R8.Q14vWS8Yr9RI0da6QTYjq9AtsOmmsHa4ObYSgPflmAqo3NtkI2Q7ywRkAtrXEAo-DNBH4L-h6cUnTWlJZ44_VA&_iepl="
