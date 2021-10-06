@@ -69,6 +69,6 @@ subtitle = ""
 
 Lab Professor:
 
-- Engineering Fluid Mechanics (also coordinator lab teacher - 2021 only)
+- Engineering Fluid Mechanics
 - Aero-themochemical systems
 - Explosion dynamics
