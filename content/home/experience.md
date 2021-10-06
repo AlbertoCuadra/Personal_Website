@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_logo = "assets/media/icons/brands/logo-uc3m.svg"
   location = "Leganés"
   date_start = "2019-3-01"
-  date_end = "2023-2-15"
+  date_end = ""
   description = """ """
   
 [[experience]]
