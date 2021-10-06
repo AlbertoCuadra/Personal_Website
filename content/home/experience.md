@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://fluidosuc3m.es/"
   company_logo = "assets/media/icons/brands/logo-uc3m.svg"
   location = "Leganés"
-  date_start = "2019-3-01"
+  date_start = "2019-03-01"
   date_end = ""
   description = """ """
   
