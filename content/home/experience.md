@@ -17,6 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Pre-doctoral Fellow"
+  company = "Universidad Carlos III de Madrid"
+  company_url = ""
+  company_logo = "assets/media/icons/brands/logo-uc3m.svg"
+  location = "Leganés"
+  date_start = "2019-3-01"
+  date_end = "2023-2-15"
+  description = ""
+  
 [[experience]]
   title = "Lab Professor"
   company = "Universidad Carlos III de Madrid"
