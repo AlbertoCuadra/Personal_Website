@@ -67,4 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-This is a test
+- Engineering Fluid Mechanics (also coordinator lab teacher - 2021 only)
+- Aero-themochemical systems
+- Explosion dynamics
