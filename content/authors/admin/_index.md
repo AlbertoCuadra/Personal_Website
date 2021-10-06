@@ -16,7 +16,7 @@ organizations:
 - name: Universidad Carlos III de Madrid
   url: "https://www.uc3m.es/Inicio"
 
-Research Interests:
+Interests:
 - Shock waves
 - Combustion
 - App development
