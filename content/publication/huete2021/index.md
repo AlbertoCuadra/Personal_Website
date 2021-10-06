@@ -37,15 +37,17 @@ featured: true
 
 # links:
 # - name: ""
-links:
-- icon: researchgate
-  icon_pack: fab
-  name: Follow
-  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
-- icon: linkedin
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/albertocuadralara/
+#links:
+#- icon: researchgate
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.researchgate.net/profile/Alberto_Cuadra_Lara
+#- icon: linkedin
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.linkedin.com/in/albertocuadralara/
+
+
 #   url: ""
 url_pdf:
 url_preprint:
