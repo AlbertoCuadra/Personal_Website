@@ -16,10 +16,15 @@ organizations:
 - name: Universidad Carlos III de Madrid
   url: "https://www.uc3m.es/Inicio"
 
-Interests:
+Research Interests:
 - Shock waves
 - Combustion
 - App development
+
+Teaching:
+- Engineering Fluid Mechanics (lab professor)
+- Aero-themochemical systems (lab professor)
+- Explosion dynamics (lab professor)
 
 Education:
   courses:
