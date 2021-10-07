@@ -48,7 +48,7 @@ featured: false
 #   url: ""
 url_pdf:
 url_preprint:
-url_code: 'https://doi.org/10.5281/zenodo.5554912'
+url_code: 'https://github.com/AlbertoCuadra/combustion_toolbox'
 url_dataset: ''
 url_poster: ''
 url_project: ''
