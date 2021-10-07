@@ -30,18 +30,6 @@ The code computes the equilibrium composition by minimization of the Gibbs–Hel
 
 This project is also part of the PhD of [Alberto Cuadra-Lara](https://www.acuadralara.com/).
 
-
-Citing Combustion Toolbox
-
-```bibtex
-@misc{combustiontoolbox,
-    author = "Alberto Cuadra, César Huete and Marcos Vera",
-    title = "Combustion Toolbox: A MATLAB-GUI based open-source tool for solving combustion problems",
-    year = 2021,
-    note = "Version 0.3.541",
-    doi = {https://doi.org/10.5281/zenodo.5554912}
-}
-```
 """
 
 #Summary. An optional shortened abstract.
