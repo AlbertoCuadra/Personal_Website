@@ -23,6 +23,7 @@ publication_short: "(v0.3.541). Zenodo. https://doi.org/10.5281/zenodo.5554912"
 
 abstract:
 
+"""
 # Combustion Toolbox
 [![DOI](https://zenodo.org/badge/214183123.svg)](https://doi.org/10.5281/zenodo.5554912) ![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/combustion_toolbox) ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/combustion_toolbox)
 
@@ -91,7 +92,7 @@ See also the list of [contributors](https://github.com/AlbertoCuadra/combustion_
     doi = {https://doi.org/10.5281/zenodo.5554912}
 }
 ```
-
+"""
 
 #Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
