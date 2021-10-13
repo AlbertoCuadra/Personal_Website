@@ -1,5 +1,5 @@
 ---
-title: Pre-release of Combustion PyToolbox (Python version)
+title: Combustion Toolbox is now available for testing
 date: 2021-08-03
 math: true
 diagram: true
@@ -10,23 +10,18 @@ publishDate: "2030-12-01T00:00:00Z"
 #  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-The chemical equilibrium approach has been using extensively during the last century in order to find the chemical composition that would give a certain reaction.
-This information can be very useful for many type of problems, e.g., .....
-The resolution method is very easy for reactions that involve only a few number of species, but the complexity increases as the number of species increase as well, giving a problem that can be tought to resolve by hand.
-In the late 1940's appeared the first themochemical code developed at the NACA Lewis Flight Propulsion Laboratory (nowadays, known as NASA) with the initial aim of evaluating rocket performance of various potential propellants.
-With this precursor idea started the carrer on the development of themochemical codes. The most relevant open-source program is CANTERA. For students, CANTERA can be a steep path until you understand the basics.
-In order to streamline the learning process, we have developed another open-source thermochemical code equipped with a Graphic User Interface. Currently, the code solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), always assuming ideal gases in all cases.
 
-The code computes the equilibrium composition by minimization of the Gibbs–Helmholtz free energy, and employs NASA’s 9-coefficient polynomial fits to evaluate the thermodynamic properties.
+ 
 
+In the [poster presented at the XI Mediterranean Combustion Symposium](https://www.acuadralara.com/talk/msc11/) we introduced our first steps toward the development of an open-source wider-scope thermochemical tool. It has passed a while since then. The kernel of the code has been rewritten to improve the performance and convergence of the numerical algorithms. The results obtained with the code are in good agreement with, NASA’s Chemical Equilibrium with Applications (CEA) program, CANTERA and Caltech’s Shock and Detonation Toolbox. A brief summary of the current stage of the tool **Combustion-Toolbox** (CT):
 
+* The code computes the equilibrium composition by minimization of the Gibbs–Helmholtz free energy by using Lagrange multipliers and allows gaseous and condensed species.
+* The code also computes equilibrium properties of ideal plasmas, i.e., no coulombic interactions are considered.
+* It employs NASA’s 9-coefficient polynomial fits to evaluate the thermodynamic properties.
+* CT solves six chemical equilibrium problems (TP, HP, SP, TV, EV and SV transformations; where T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), incident and reflected planar shock waves, as well as ideal detonations according to Chapman-Jouguet theory and overdriven detonations.
+* A more comprehensive and user-friendly GUI will be released in late October 2021.
+* The code is in it's transition to Python (https://github.com/AlbertoCuadra/Combustion-PyToolbox).
 
+**The repository of the tool is now available for testing.**
 
-
-## Examples
-
-On this section, you'll find some examples of the types of technical content that can be obtained with Combustion PyToolbox.
-
-### Code
-
-### Did you find this page helpful? Consider sharing it 🙌
+URL: https://github.com/AlbertoCuadra/combustion_toolbox
