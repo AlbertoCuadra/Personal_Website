@@ -31,7 +31,7 @@ In the [poster presented at the XI Mediterranean Combustion Symposium](https://w
 * A more comprehensive and user-friendly `GUI will be released in late October 2021`.
 * The code is in it's `transition to Python`.
 
-**The repository of the tool is now available for testing.**
+**Repositories:**
 
 `MATLAB` URL: https://github.com/AlbertoCuadra/combustion_toolbox
 
