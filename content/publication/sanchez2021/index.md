@@ -1,5 +1,5 @@
 ---
-title: "SimEx: Explosives Simulator"
+title: "SimEx: A tool for rapid evaluation of the effects of explosions"
 authors:
 - Juan Sánchez-Monreal
 - admin
