@@ -23,7 +23,7 @@ Interests:
 
 Teaching:
 - Engineering Fluid Mechanics (lab professor)
-- Aero-themochemical systems (lab professor)
+- Aero-thermochemical systems (lab professor)
 - Explosion dynamics (lab professor)
 
 Education:
