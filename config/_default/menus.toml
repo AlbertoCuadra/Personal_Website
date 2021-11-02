@@ -33,12 +33,12 @@
   url = "#teaching"
   weight = 80
   
-  [[main]]
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 100
   
-  [[main]]
+[[main]]
   name = "CV"
   url = "files/cvacuadra.pdf"
   weight = 120
