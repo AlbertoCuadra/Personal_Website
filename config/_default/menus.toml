@@ -40,5 +40,5 @@
   
 [[main]]
   name = "CV"
-  url = "https://github.com/AlbertoCuadra/Personal_Website/tree/master/static/files/cv.pdf"
+  url = "#static/files/cv.pdf"
   weight = 120
