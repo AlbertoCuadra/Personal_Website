@@ -28,7 +28,7 @@ In the [poster presented at the XI Mediterranean Combustion Symposium](https://w
 * The code also computes equilibrium properties of `ideal plasmas`, i.e., no coulombic interactions are considered.
 * It employs `NASA’s 9-coefficient polynomial` fits to evaluate the thermodynamic properties.
 * CT solves six chemical equilibrium problems (`TP, HP, SP, TV, EV and SV transformations`; where T denotes temperature, P pressure, H enthalpy, S entropy, E internal energy and V volume), `incident and reflected planar shock waves, as well as ideal detonations according to Chapman-Jouguet theory and overdriven detonations`.
-* A more comprehensive and user-friendly `GUI will be released in late October 2021`.
+* A more comprehensive and user-friendly `GUI will be released in November 2021`.
 * The code is in it's `transition to Python`.
 
 **Repositories:**
