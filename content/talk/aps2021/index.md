@@ -40,7 +40,7 @@ links:
 url_code: ""
 url_poster: 
 url_video: ""
-url_slides: "files/APSDFD2021acuadra.pdf""
+url_slides: "files/APSDFD2021acuadra.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
