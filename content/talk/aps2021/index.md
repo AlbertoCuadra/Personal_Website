@@ -40,7 +40,7 @@ links:
 url_code: ""
 url_poster: 
 url_video: ""
-url_slides: "https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/talk/aps2021/APSDFD2021acuadra.pdf"
+url_slides: "files/APSDFD2021acuadra.pdf""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
