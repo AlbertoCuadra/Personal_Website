@@ -23,7 +23,7 @@ authors: [admin, César Huete, Marcos Vera, Javier Urzay]
 tags: [Hypersonics, Thermochemical, Shock Waves]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
