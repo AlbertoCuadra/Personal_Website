@@ -13,8 +13,8 @@ abstract: "The interaction between a weakly turbulent free stream and a hyperson
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-11-21T11:00:00Z"
-date_end: "2021-11-23T12:00:00Z"
+date: "2021-11-21T8:00:00Z"
+date_end: "2021-11-23T17:00:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
