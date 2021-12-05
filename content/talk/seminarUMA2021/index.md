@@ -5,7 +5,7 @@ event: Seminars
 
 #location: Source Themes HQ
 address:
-  city: Málaga
+  city: Malaga
   country: Spain
 
 summary: 
