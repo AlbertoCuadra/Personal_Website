@@ -1,7 +1,7 @@
 ---
 title: "Seminar on the development of an open-source thermochemical code: basics and applications into shock-turbulence interaction problems in the hypersonic regime"
 event: "Seminars"
-event_url:"" 
+event_url: "" 
 
 #location: Source Themes HQ
 address:
@@ -38,7 +38,7 @@ links:
   name: Follow
   url: https://www.linkedin.com/in/albertocuadralara/
 url_code: ""
-url_poster: 
+url_poster: ""
 url_video: ""
 url_slides: ""
 
