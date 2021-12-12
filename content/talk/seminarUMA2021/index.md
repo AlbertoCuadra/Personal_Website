@@ -1,5 +1,5 @@
 ---
-title: "Seminar on the development of an open-source thermochemical code: basics and applications into shock-turbulence interaction problems in the hypersonic regime"
+title: "Development of an open-source thermochemical code: Fundamentals and application to shock turbulence interaction problems in the hypersonic regime"
 event: "Seminars"
 event_url: "" 
 
