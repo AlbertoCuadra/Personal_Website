@@ -49,7 +49,7 @@ url_slides: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "Slides_seminar_UMA_2021_compressed.pdf"
+slides: "files/Slides_seminar_UMA_2021_compressed.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
