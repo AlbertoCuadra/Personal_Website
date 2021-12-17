@@ -42,14 +42,14 @@ links:
 url_code: ""
 url_poster: ""
 url_video: ""
-url_slides: ""
+url_slides: "files/Slides_seminar_UMA_2021_compressed.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "files/Slides_seminar_UMA_2021_compressed.pdf"
+#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
