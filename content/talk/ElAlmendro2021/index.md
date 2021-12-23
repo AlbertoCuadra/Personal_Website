@@ -40,7 +40,7 @@ links:
 url_code: ""
 url_poster: ""
 url_video: ""
-url_slides: ""
+url_slides: "files/Slides_El_Almendro_UMA_2021.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
