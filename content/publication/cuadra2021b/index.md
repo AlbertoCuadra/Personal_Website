@@ -5,8 +5,8 @@ authors:
 - César Huete
 - Marcos Vera
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
-date: "2021-10-07T00:00:00Z"
-doi: ""
+date: "2022-02-09T00:00:00Z"
+doi: "https://doi.org/10.5281/zenodo.6022822"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-02-01T00:00:00Z"
