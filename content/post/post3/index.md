@@ -84,6 +84,8 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
     <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H_results.svg" width="1400">
 </p>
 
+{{ partial "https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H_results.svg" (dict "fill" "#01589B" "width" 10 "height" 20 ) }}
+
 ## How to use it
 Search for `Acrypto - Weighted strategy` in the indicator tab using `tradingview` and add it to your layout. Modify the indicator parameters for the desired asset and data frame.
 
