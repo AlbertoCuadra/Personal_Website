@@ -17,7 +17,9 @@ tags:
 
 #   url: ""
 url_code: 'https://github.com/AlbertoCuadra/algo_trading_weighted_strategy'
-url_tradingview: 'https://www.tradingview.com/script/OF3TzrNS-Acrypto-Weighted-Strategy/'
+links:
+- name: Tradingview
+  url: 'https://www.tradingview.com/script/OF3TzrNS-Acrypto-Weighted-Strategy/'
 ---
 
 
