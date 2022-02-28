@@ -82,7 +82,7 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
 * H4 BTC/USDT Binance (default) - 01/01/2021 - 19/02/2022
 
 ![Fig1](img/example_BTC_USDT_Binance_4H.jpg)
-![Fig2](img/example_BTC_USDT_Binance_4H_results.jpg)
+![Fig2](img/example_BTC_USDT_Binance_4H_results.svg)
 
 ## How to use it
 Search for `Acrypto - Weighted strategy` in the indicator tab using `tradingview` and add it to your layout. Modify the indicator parameters for the desired asset and data frame.
