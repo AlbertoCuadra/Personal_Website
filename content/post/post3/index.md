@@ -78,10 +78,10 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
 
 * H4 BTC/USDT Binance (default) - 01/01/2021 - 19/02/2022
 <p align="left">
-    <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H.jpg" width="1400">
+    <img src="/static/img/example_BTC_USDT_Binance_4H.svg" width="1400">
 </p>
 <p align="left">
-    <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H_results.jpg" width="1400">
+    <img src="/static/img/example_BTC_USDT_Binance_4H_results.svg" width="1400">
 </p>
 
 ## How to use it
