@@ -80,6 +80,42 @@ edit_page = {repo_url = "https://github.com/AlbertoCuadra/starter-academic", con
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
 
+
+# ---------------------------
+# Posts related configuration
+# ---------------------------
+# Global keywords configuration. Following keywords will be add to every pages
+#  keywords = ["development", "next-gen"]
+
+# Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
+clearReading = true
+
+# Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
+# If false it will flat categories.
+hierarchicalCategories = true
+
+# Display `Next` on left side of the pagination, and `Prev` on right side one.
+# If you set this value to `true`, these positions swap.
+#  swapPaginator = true
+
+# ---------------------
+# Sidebar configuration
+# ---------------------
+# Customization
+# Define the behavior of the sidebar
+# 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
+#    medium sidebar on medium screen and header bar on small screen and
+# extra large sidebar is swiped on extra large screen and large sidebar on all lower screen (default)
+# 2: Display large sidebar on large screen, medium sidebar on medium screen and
+#    header bar on small screen and large sidebar is swiped
+# 3: Display medium sidebar on large and medium screen and header bar on small screen and
+#    medium sidebar is swiped
+# 4: Display header bar on all screens, extra large sidebar is swiped on extra large screen and
+#    large sidebar is swiped on all lower screens
+# 5: Display header bar on all screens and large sidebar is swiped on large screen
+# 6: Display header bar on all screens and medium sidebar is swiped
+sidebarBehavior = 1
+  
 ############################
 ## Contact details
 ##
