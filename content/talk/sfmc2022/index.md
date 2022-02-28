@@ -13,8 +13,8 @@ abstract: "The interaction between a weakly turbulent free stream of air and a h
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-22T11:00:00Z"
-date_end: "2021-12-22T13:00:00Z"
+date: "2022-06-19T11:00:00Z"
+date_end: "2022-06-22T13:00:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
