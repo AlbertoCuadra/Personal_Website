@@ -81,7 +81,7 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
 
 * H4 BTC/USDT Binance (default) - 01/01/2021 - 19/02/2022
 
-![](img/example_BTC_USDT_Binance_4H.svg)
+![](img/example_BTC_USDT_Binance_4H.jpg)
 ![](img/example_BTC_USDT_Binance_4H_results.svg)
 
 ## How to use it
