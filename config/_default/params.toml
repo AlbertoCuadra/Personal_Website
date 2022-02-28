@@ -178,7 +178,8 @@ abstract_length = 135
 plugins_js  = []
 
 # Load CSS plugins
-plugins_css = ["assets/scss/custom.scss"]
+[[params.customCSS]]
+  href = "assets/scss/custom.scss"
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
