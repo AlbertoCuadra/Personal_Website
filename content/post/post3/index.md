@@ -1,10 +1,10 @@
 ---
-title: Algo trading - weighted strategy
-date: 2021-10-13
+title: "Algo trading: weighted strategy"
+date: 2022-02-11
 math: true
 diagram: true
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-13T00:00:00Z"
+publishDate: "2022-02-11T00:00:00Z"
 #image:
 #  placement: 3
 #  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
