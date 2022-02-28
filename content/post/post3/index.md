@@ -63,7 +63,7 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
 ---
 ⚠️ **NOTE**
 - Backtest the algorithm with different data stamps to avoid overfitting results.
-- The given default setup correspond with a successful example to use with H4 $BTC/$USDT on @binance with +1700% in one year with a max drawdown of 8% approx.
+- The given default setup correspond with a successful example to use with H4 BTC/USDT on @binance with +1700% in one year with a max drawdown of 8% approx.
   With the monthly performance, we can see that the algo has performed very well over the past two years, capturing the trend very accurately. However, from 2017 to 2019, the    algorithm can't even make a profit! This is a disclaimer, use at your own risk.
 ---
 
@@ -72,7 +72,7 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
 * The color-trend represents when at least one of the strategies is satisfied, long in teal and short in gray and there is not a draw, same number of strategies satisfies for long and short.
 * The `+` represent the next Take Profit (TP) target in teal and the Stop-Loss (SL) in gray.
 * Plot labels for every time each strategy satisfies to open a long/short position
-* Detect potential TOP and BOTTOMS based on a combination of RSI, Stoch RSI, MACD, volume, and the weighted-strategy.
+* Detect potential Top and Bottoms based on a combination of RSI, Stoch RSI, MACD, volume, and the weighted-strategy.
 
 ## Examples
 
@@ -87,7 +87,7 @@ To set an order, first, the algorithm calculates the weight_strategy, which repr
 ## How to use it
 Search for `Acrypto - Weighted strategy` in the indicator tab using `tradingview` and add it to your layout. Modify the indicator parameters for the desired asset and data frame.
 
-If you consider paying for a subscription on TradingView (which is not required for this script), I would be very grateful if you could use my referral link :)
+If you consider paying for a subscription on TradingView (which is not required for this script), I would be very grateful if you could use my referral link.
 
 `Referral link:` https://www.tradingview.com/gopro/?share_your_love=accry
 
