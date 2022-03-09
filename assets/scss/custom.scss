@@ -1,23 +1,7 @@
-/* To number publications. Set c1 as total number of publications */
-/*
-.universal-wrapper {
-counter-reset: c1 4;  Set this c1 manually
-}
-.div.col-12.col-lg-8{
-counter-increment: c1 -1;
-}
-.article-metadata.li-cite-author:before {
-content: counter(c1) ".-";
-margin-right: 5px;
-text-align: right;
-display: inline-block;
-}
-*/
-
-section#post div.container{
-max-width:90%;
-}
-
+.article-container {
+        max-width:50%;
+        }
+        
 #profile { 
 
   .portrait-title {
