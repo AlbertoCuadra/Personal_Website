@@ -26,11 +26,9 @@ links:
 - name: Zenodo
   url: 'https://zenodo.org/record/6396748'
 ---
-
 [![Preview](/gif/preview.gif)](https://combustion-toolbox-website.readthedocs.io)
 
-
-We are in the final push for the official release of Combustion Toolbox v1.0.0. One of the tasks was to build a complete documentation on how to use it. Now, I'm happy to announce that the Combustion Toolbox website is live! There's still a lot of information we want to include, but it's a great first step.
+We are in the final stage leading up to the official release of Combustion Toolbox v1.0.0. One of the tasks was to build a complete documentation on how to use it to supplement an upcoming publication for a scientific journal. Now, I'm happy to announce that the Combustion Toolbox website is live! There's still a lot of information we want to include, but it's a great first step.
 
 Best,
 
