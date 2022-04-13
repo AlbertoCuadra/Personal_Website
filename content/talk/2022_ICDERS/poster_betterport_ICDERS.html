@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<title>poster_betterport_ICDERS.knit</title>
+
+<script src="poster_betterport_ICDERS_files/header-attrs-2.12/header-attrs.js"></script>
+
+
+
+
+
+
+<!--
+Font-awesome icons ie github or twitter
+-->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/brands.css" integrity="sha384-n9+6/aSqa9lBidZMRCQHTHKJscPq6NW4pCQBiMmHdUCvPN8ZOg2zJJTkC7WIezWv" crossorigin="anonymous">
+
+<!--
+Google fonts api stuff
+-->
+<link href='https://fonts.googleapis.com/css?family=Special Elite' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Rasa' rel='stylesheet'>
+
+<!--
+Here are the required style attributes for css to make this poster work :)
+-->
+<style>
+@page {
+size: 33.1in 46.8in;
+margin: 0;
+padding: 0;
+}
+body {
+margin: 0px;
+padding: 0px;
+width: 33.1in;
+height: 46.8in;
+text-align: justify;
+font-size: 52px;
+line-height: 1.05;
+}
+/* RMarkdown Class Styles */
+/* center align leaflet map,
+from https://stackoverflow.com/questions/52112119/center-leaflet-in-a-rmarkdown-document */
+.html-widget {
+margin: auto;
+position: sticky;
+margin-top: 2cm;
+margin-bottom: 2cm;
+}
+.leaflet.html-widget.html-widget-static-bound.leaflet-container.leaflet-touch.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom {
+position: sticky;
+width: 100%;
+}
+pre.sourceCode.r, pre.sourceCode.python {
+background-color: #ffffff20;
+border: solid #48797B 1mm;
+border-radius: 0.5em;
+padding: 4mm;
+margin: auto;
+margin-top: 1em;
+margin-bottom: 1em;
+/* align-items: center; */
+}
+div.sourceCode {
+background-color: transparent;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+}
+code.sourceCode.r, code.sourceCode.python {
+background-color: transparent;
+font-size: 20pt;
+border-radius: 2mm;
+}
+code {
+font-size: 25pt;
+font-family: monospace;
+background-color: #48797B24;
+color: #48797B;
+padding: 1.2mm;
+line-height: 1;
+border-radius: 2mm;
+}
+caption {
+margin-bottom: 10px;
+font-size: 27pt;
+font-style: italic;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #48797B20;
+}
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td{
+  border-spacing: 0;
+  font-size: 40%;
+  border-style: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 1em;
+  padding-left: 1em;
+  line-height: 1em;
+}
+table {
+  margin: auto;
+}
+th {
+  padding-left: 5mm;
+  padding-right: 5mm;
+}
+.caption {
+font-size: 27pt;
+font-style: italic;
+padding-top: 0;
+}
+.references {
+font-size: 32px;
+line-height: 90%;
+}
+/* Create three unequal columns that floats next to each other */
+.column {
+float: left;
+padding: 0px;
+}
+.outer {
+width: 33.1in;
+height: calc(46.8in *  (1 - 0.105 - 0.085 - 0.01) );
+-webkit-column-count: 3; /* Chrome, Safari, Opera */
+-moz-column-count: 3; /* Firefox */
+column-count: 3;
+-webkit-column-fill: auto;
+-moz-column-fill: auto;
+column-fill: auto;
+column-gap: 0;
+padding-left: 0cm;
+padding-right: 0cm;
+/* -webkit-column-rule-width: 50%;
+-moz-column-rule-width: 50%;
+column-rule-width: 50%; */
+-webkit-column-rule-style: none;
+-moz-column-rule-style: none;
+column-rule-style: none;
+-webkit-column-rule-color: black;
+-moz-column-rule-color: black;
+column-rule-color: black;
+background-color: #ffffff;
+font-family: Rasa;
+margin-top: calc(46.8in *  0.105 );
+padding-top: 1em;
+padding-bottom: 1em;
+}
+span.citation {
+  color: #48797B;
+  font-weight: bold;
+}
+a {
+text-decoration: none;
+color: #48797B;
+}
+#title {
+font-size: 75pt;
+text-align: left;
+margin: 0;
+line-height: 98%;
+border-bottom: 0;
+font-weight: normal;
+background: 0;
+}
+#author {
+color:#346b6d;
+margin: 0;
+line-height: 85%;
+font-size: 58px;
+}
+#affiliation {
+padding-top: 0.1em;
+color: ;
+font-style: italic;
+font-size: 38px;
+margin: 0;
+}
+sup {
+color: #c9ae69ff;
+}
+.affiliation sup {
+font-size: 20px;
+}
+.author {
+text-align: left;
+}
+.author sup {
+font-size: 30px;
+}
+.author_extra {
+color: #48797B;
+margin: 0;
+line-height: 85%;
+font-size: 49px;
+text-align: left;
+}
+.outer h1, h2, h3, h4, h5, h6 {
+text-align: center;
+margin: 0;
+font-weight: bold;
+}
+.section h1 {
+  text-align:center;
+  padding-bottom:5px;
+  background:
+    linear-gradient(
+      to left,
+      #ffffff 1%,
+      #ffffff 20%,
+      #346b6d75 33%,
+      #346b6d 50%,
+      #346b6d75 66%,
+      #ffffff 80%,
+      #ffffff 99%
+    )
+    left
+    bottom
+    #ffffff
+    no-repeat;
+  background-size:100% 5px ;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.outer h2 {
+text-align: center;
+}
+.outer p, .level2 {
+color: #000000;
+}
+.outer ol {
+padding-left: 8%;
+padding-right: 8%;
+text-align: left;
+}
+.main {
+width: 33.1in;
+height: calc(46.8in * 0.105);
+position: absolute;
+background-color: #346b6d;
+color: #ffffff90;
+font-family: Special Elite;
+background-image: linear-gradient(#346b6d 50%,#48797B);
+}
+.main strong {
+color: #ffffff;
+}
+.main strong > sup {
+color: #ffffff;
+}
+.main sup {
+color: #ffffff90;
+}
+#main-img-left {
+width: 10%;
+left: 0.5in;
+bottom: 0.2in;
+position: absolute;
+}
+#main-img-center {
+width: 10%;
+left: calc(33.1in * 0.45);
+bottom: 0.5in;
+position: absolute;
+}
+#main-img-right {
+width: 10%;
+right: 0.5in;
+bottom: 0.2in;
+position: absolute;
+}
+.main p {
+font-size: 150px;
+font-family: Special Elite;
+text-align: center;
+margin: 0;
+position: absolute;
+top: 50%;
+-ms-transform: translateY(-50%);
+transform: translateY(-50%);
+margin-left: 1em;
+}
+.fab {
+color: #00000060;
+font-size: 25px;
+}
+.twitter, i {
+color: #00000060;
+font-size: 35px;
+text-decoration: none;
+}
+a.email {
+text-decoration: none;
+color: #00000060;
+font-size: 35px;
+}
+.envelope {
+color: #00000060;
+font-size: 5px;
+text-decoration: none;
+}
+.globe {
+color: #00000060;
+font-size: 5px;
+text-decoration: none;
+}
+.globetext {
+color: #00000060;
+font-size: 35px;
+text-decoration: none;
+}
+.poster_wrap {
+width: 33.1in;
+height: 46.8in;
+padding: 0cm;
+}
+.main_bottom {
+width: 33.1in;
+height: calc(46.8in * 0.085);
+margin-top: calc(46.8in * (1 - 0.085));
+position: absolute;
+background-color: #346b6d;
+background-image: linear-gradient(#48797B 10%, #346b6d);
+}
+.section {
+  padding-left: 10mm;
+  padding-right: 10mm;
+}
+span > #tab:mytable {
+  font-weight: bold;
+}
+.orcid img {
+  width: 3%;
+}
+.emphasis {
+  background-color: #008080;
+  color: #ffffff;
+  border: solid #0b2045 3mm;
+  margin: 1em;
+  padding-left: 0;
+  padding-right: 0;
+}
+.emphasis h1 {
+  font-weight: bold;
+  background: none;
+  background-color: #0b2045;
+  padding-bottom: 5mm;
+  padding-top: 1mm;
+  margin-top: -1mm;
+  margin-right: -1mm;
+  margin-left: -1mm;
+}
+.emphasis blockquote {
+  border: 0;
+}
+.emphasis ol {
+  padding: 0;
+  padding-left: 8%;
+  font-size: 100%;
+  font-weight: bold;
+}
+.emphasis p {
+  color: #ffffff;
+}
+</style>
+</head>
+<body>
+
+
+<div class="poster_wrap">
+
+<div class="column outer">
+<div class="section">
+
+<h3 id="author" class="author">
+
+Alberto Cuadra, César Huete &amp; Marcos Vera<sup> </sup><br>
+
+<a class='envelope'><i class="fas fa-envelope"></i></a> <a href="mailto:acuadra@ing.uc3m.es" class="email">acuadra@ing.uc3m.es</a> <br>
+</h3>
+
+<h5 id="author_extra", class="author_extra">
+</h5>
+
+
+<p id="affiliation" class="affiliation">
+<sup></sup> Grupo de Mecánica de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
+</p>
+</div>
+
+<style type="text/css">
+p {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word; 
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto; 
+  hyphens: auto;
+}
+</style>
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>When shock waves appear in <code>hypersonic conditions</code>, the intense compression of the gas leads to high temperatures that can activate <code>complex thermochemical phenomena</code> (vibrational excitation, dissociation, electronic excitation, and ionization). The interaction of hypersonic shocks with turbulence in air is addressed in this work using Linear Interaction Analysis (LIA) in combination with an in-house thermochemical code, hearafter Combustion Toolbox <span class="citation">(<a href="#ref-combustiontoolbox" role="doc-biblioref">Cuadra, Huete, and Vera 2022</a>)</span>.</p>
+<div class="figure" style="text-align: justify"><span style="display:block;" id="fig:Figure1"></span>
+<img src="Figures/sketch.svg" alt="\label{Figure1} Sketch of the model problem: a normal shock wave interacts with a hypersonic free stream of weak isotropic turbulence (velocities are shown in the shock reference frame)." width="100%" />
+<p class="caption">
+Figure 1:  Sketch of the model problem: a normal shock wave interacts with a hypersonic free stream of weak isotropic turbulence (velocities are shown in the shock reference frame).
+</p>
+</div>
+<p>Consider first the problem of an undisturbed, normal shock wave in a cold, inviscid, irrotational, air stream (see Fig. <a href="#fig:Figure1">1</a>). The pre-shock density, pressure, flow velocity, and enthalpy in the reference frame of the shock are denoted, respectively, as <span class="math inline">\(\rho_1\)</span>, <span class="math inline">\(p_1\)</span>, <span class="math inline">\(u_1\)</span>, <span class="math inline">\(h_1\)</span>. The corresponding flow variables in the post-shock gas are denoted as <span class="math inline">\(\rho_2\)</span>, <span class="math inline">\(p_2\)</span>, <span class="math inline">\(u_2\)</span>, and <span class="math inline">\(h_2\)</span>. The RH relations are
+<span class="math display">\[\begin{align}
+p_2/p_1 &amp;= 1 - \rho_1 u_1^2/p_1 \left(\rho_1/\rho_2 - 1\right), \tag{1a}\\
+h_2 &amp;= h_1 + u_2^2/2\left[1- \left(\rho_1/\rho_2\right)^2\right]. \tag{1b}
+\end{align}\]</span>
+These equations are supplemented with the ideal-gas equations of state (EoS) <span class="math inline">\(p =\rho R_{g} T\)</span>, where <span class="math inline">\(R_g\)</span> is the gas constant of the gas mixture, and the corresponding function of state for enthalpy, which depends on temperature and the mixture properties. In our case, <span class="math inline">\(h\)</span> is mode-lled with use made of the NASA-9 coefficient polynomials database, which ranges up to 20000 K <span class="citation">(<a href="#ref-Mcbride2002" role="doc-biblioref">McBride 2002</a>)</span>. Combustion Toolbox imple-ments this database and is used to solve the RH relations together with the chosen EoS to give the jump conditions across the shock for the given free stream conditions and shock intensity (see Fig. <a href="#fig:Figure2">2</a>).</p>
+</div>
+<div id="method" class="section level1">
+<h1>Method</h1>
+<ol style="list-style-type: decimal">
+<li>Compute the Rankine-Hugoniot (RH) curve and the shocked gas properties with <code>Combustion Toolbox</code>.</li>
+<li>Use normal-mode analysis to describe the interaction with single-frequency vorticity disturbances.</li>
+<li>Compute the interaction with an isotro-pic spectrum providing the value of <span class="math inline">\(K\)</span> as a integral formula.</li>
+</ol>
+<hr />
+<ul>
+<li><p>Assumptions as in the standard LIA.</p></li>
+<li><p>Thermochemical effects requires that the characteristic size of the shock wrinkles <span class="math inline">\(\ell\)</span> be much larger than the thickness of the ther-mochemical non-equilibrium region behind the shock <span class="math inline">\(\ell_T\)</span>, as depicted in Fig. <a href="#fig:Figure1">1</a>.</p></li>
+</ul>
+<hr />
+<p>The Turbulent Kinetic Energy (TKE) ampli-fication factor across the shock wave is a magnitude of utmost interest in the interaction of shock waves with turbulence. It is defined as
+<span class="math display">\[\begin{equation}
+K = \displaystyle\frac{ \langle {u&#39;}_2^2 \rangle + \langle {v&#39;}_2^2 \rangle + \langle {w&#39;}_2^2 \rangle}{\langle {u&#39;}^2_{1} \rangle + \langle {v&#39;}^2_{1} \rangle + \langle {w&#39;}^2_{1} \rangle},
+\tag{2}
+\end{equation}\]</span>
+where <span class="math inline">\(\langle {u&#39;}^2 \rangle\)</span> denotes the mean value of the perturbation kinetic energy associated with velocity component <span class="math inline">\(u\)</span>. By performing the theoretical analysis described in <span class="citation">(<a href="#ref-huete2021" role="doc-biblioref">Huete et al. 2021</a>)</span>, with the details omitted here for brevity, the value of <span class="math inline">\(K\)</span> can be expressed as an integral formula (see Fig. <a href="#fig:Figure3">3</a>).</p>
+</div>
+<div id="results" class="section level1">
+<h1>Results</h1>
+<ul>
+<li><p>Owing to endothermic effects (mainly, recombination and dissociation) there is an augmentation of the compression ratio with respect to that of a thermochemical frozen gas as shown in Fig. <a href="#fig:Figure2">2</a>. Results have been compared with NASA’s CEA code <span class="citation">(<a href="#ref-gordon1994" role="doc-biblioref">Gordon and McBride 1994</a>)</span>, showing excellent agreement.</p></li>
+<li><p>The non-monotonicity of <span class="math inline">\(K\)</span> is dictated by the behavior of the vorticity generation across the shock, since acoustic turbulent kinetic energy is negligible in hypersonic conditions.</p></li>
+<li><p>Unstable shock dynamics is expected when the shock Mach number <span class="math inline">\(\mathcal{M_1} \gtrsim 28\)</span> for air at pre-shock temperature <span class="math inline">\(T_1=300\)</span> K, pressure <span class="math inline">\(p_1=1\)</span> atm, and volume composition {N<span class="math inline">\(_2\)</span>, O<span class="math inline">\(_2\)</span>, Ar, CO<span class="math inline">\(_2\)</span>} = {78.08, 20.95, 0.9365, 0.0319}. This is a result of the reverted slope in the RH curve.</p></li>
+<li><p>Turbulence intensity and turbulent Reynolds number increase across the shock compared with the thermochemically frozen gas.</p></li>
+</ul>
+</div>
+<div id="conclusions" class="section level1">
+<h1>Conclusions</h1>
+<p>The post-shock perturbation flow is govern by two main effects: the mass compression ratio, whose amplification via endothermicity increa-ses the flow deflection and the generation of transverse kinetic energy; and the RH curve slope, which is sensitive to the different inner processes undergoing within the non-equilibrium region. The latter is apparently related with the net rate of change of the molar fractions with the pre-shock Mach number for the most important reactions in the mixture.</p>
+<div class="figure" style="text-align: justify"><span style="display:block;" id="fig:Figure2"></span>
+<img src="Figures/Hugoniot_benchmarking_air_CT_log.svg" alt="\label{Figure2}Log-log RH curve for air at pre-shock temperature $T_1=300$ K, pressure $p_1=1$ atm, and volume composition \{N$_2$, O$_2$, Ar, CO$_2$\} = \{78.08, 20.95, 0.9365, 0.0319\} including ionization; green line: Combustion Toolbox (CT) [@combustiontoolbox]; circles: numerical results obtained with NASA's Chemical Equilibrium with Applications (CEA) code [@gordon1994]; Roman numerals: regions with the dominant reactions labeled." width="82%" />
+<p class="caption">
+Figure 2: Log-log RH curve for air at pre-shock temperature <span class="math inline">\(T_1=300\)</span> K, pressure <span class="math inline">\(p_1=1\)</span> atm, and volume composition {N<span class="math inline">\(_2\)</span>, O<span class="math inline">\(_2\)</span>, Ar, CO<span class="math inline">\(_2\)</span>} = {78.08, 20.95, 0.9365, 0.0319} including ionization; green line: Combustion Toolbox (CT) <span class="citation">(<a href="#ref-combustiontoolbox" role="doc-biblioref">Cuadra, Huete, and Vera 2022</a>)</span>; circles: numerical results obtained with NASA’s Chemical Equilibrium with Applications (CEA) code <span class="citation">(<a href="#ref-gordon1994" role="doc-biblioref">Gordon and McBride 1994</a>)</span>; Roman numerals: regions with the dominant reactions labeled.
+</p>
+</div>
+<div class="figure" style="text-align: justify"><span style="display:block;" id="fig:Figure3"></span>
+<img src="Figures/K3D_molarfraction_SFMC2022_extended_noeq.svg" alt="\label{Figure3}TKE amplification factor $K$ as a function of the pre-shock Mach number ${\mathcal{M}}_1$ (bottom) and as a function of temperature $T [K]$ (top) [green line]. Dashed line corresponds with the thermochemical frozen gas approximation. The inset represents the net rate change of the molar fractions with the pre-shock Mach number $|dX_i/{d\mathcal{M}}_1|$ for the most relevant reactions in the mixture." width="100%" />
+<p class="caption">
+Figure 3: TKE amplification factor <span class="math inline">\(K\)</span> as a function of the pre-shock Mach number <span class="math inline">\({\mathcal{M}}_1\)</span> (bottom) and as a function of temperature <span class="math inline">\(T [K]\)</span> (top) [green line]. Dashed line corresponds with the thermochemical frozen gas approximation. The inset represents the net rate change of the molar fractions with the pre-shock Mach number <span class="math inline">\(|dX_i/{d\mathcal{M}}_1|\)</span> for the most relevant reactions in the mixture.
+</p>
+</div>
+</div>
+<div id="references" class="section level1">
+<h1>References</h1>
+<style>
+#main-img-left {
+ width: 43%;
+}
+#main-img-center {
+ width: 7%;
+}
+#main-img-right {
+ width: 48%;
+}
+</style>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-combustiontoolbox" class="csl-entry">
+Cuadra, A., C. Huete, and M. Vera. 2022. <span>“<span class="nocase">Combustion Toolbox: A MATLAB-GUI based open-source tool for solving gaseous combustion problems</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.6396748">https://doi.org/10.5281/zenodo.6396748</a>.
+</div>
+<div id="ref-gordon1994" class="csl-entry">
+Gordon, S., and B. J. McBride. 1994. <span>“Computer Program for Calculation of Complex Chemical Equilibrium.”</span> <em>NASA Reference Publication</em> 1311.
+</div>
+<div id="ref-huete2021" class="csl-entry">
+Huete, C., A. Cuadra, M. Vera, and J. Urzay. 2021. <span>“Thermochemical Effects on Hypersonic Shock Waves Interacting with Weak Turbulence.”</span> <em>Physics of Fluids</em> 33 (8): 086111.
+</div>
+<div id="ref-Mcbride2002" class="csl-entry">
+McBride, B. J. 2002. <em>NASA Glenn Coefficients for Calculating Thermodynamic Properties of Individual Species</em>. NASA, John H. Glenn Research Center.
+</div>
+</div>
+</div>
+
+</div>
+<div class="main">
+<p><strong>Theory of turbulence augmentation across hypersonic shock waves in air</strong></p>
+</div>
+<div class="main_bottom">
+<img id="main-img-left" src=Figures/logoleft.svg>
+<img id="main-img-center" src=>
+<img id="main-img-right" src=Figures/logoright.svg>
+</div>
+</div>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+var script = document.createElement("script");
+script.type = "text/javascript";
+var src = "true";
+if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+if (location.protocol !== "file:" && /^https?:/.test(src))
+src = src.replace(/^https?:/, '');
+script.src = src;
+document.getElementsByTagName("head")[0].appendChild(script);
+})();
+</script>
+
+
+</body>
+</html>
