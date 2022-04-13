@@ -9,7 +9,7 @@ address:
   country: Italy
 
 summary: Poster presented in the 28th International Colloquium on the Dynamics of Explosions and Reactive Systems.
-abstract: ""
+abstract: "The interaction between a weakly turbulent free stream of air and a hypersonic shock wave is investigated theoretically by using linear interaction analysis (LIA). The perturbation-free jump conditions across the shock are computed using Combustion Toolbox, an in-house thermochemical code capable of capturing high-temperature phenomena such as dissociation, ionization, and recombination in multi-species mixtures, which are found to be dominant effects in hypersonic shocks in air. The formulation is developed in the limit in which the thickness of the thermochemical nonequilibrium region is assumed to be much smaller than the characteristic size of the shock wrinkles caused by turbulence. Similarly to our previous work [Physics of Fluids, 33(8), 086111 (2021)] which only accounted for vibrational and dissociation effects of single-species diatomic gases, the LIA results presented here for air indicate that the enstrophy, anisotropy, intensity, and turbulent kinetic energy (TKE) of the fluctuations are much more amplified through the shock than in the thermochemical frozen case. Moreover, the turbulent Reynolds number is also amplified across the shock at hypersonic Mach numbers in the presence of dissociation and vibrational excitation, as opposed to the attenuation observed in the thermochemical frozen case. However, multi-species effects reshape the curve of TKE to that where local peaks associate with the local maxima in the net variation of the concentrations of the major diatomic species in the mixture."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -20,7 +20,7 @@ date_end: "2022-06-21T18:15:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [admin, César Huete, Marcos Vera]
-tags: []
+tags: [Combustion Toolbox, Hypersonics, Thermochemistry, Shocks waves]
 
 # Is this a featured talk? (true/false)
 featured: false
