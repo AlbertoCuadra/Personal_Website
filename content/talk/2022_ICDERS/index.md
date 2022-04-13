@@ -37,6 +37,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/albertocuadralara/
+url_pdf: 'files/poster_ICDERS_2022.pdf'
 url_code: ""
 url_poster: https://htmlpreview.github.io/?https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/talk/2022_ICDERS/poster_betterport_ICDERS.html
 url_slides: ""
