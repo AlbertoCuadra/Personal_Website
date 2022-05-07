@@ -1,5 +1,5 @@
 ---
-title: Combustion Toolbox: an open source thermochemical code for solving gaseous combustion problems
+title: "Combustion Toolbox: an open source thermochemical code for solving gaseous combustion problems"
 event: XII National and III International Conference on Engineering Thermodynamics
 event_url: https://eventos.uc3m.es/46084.html
 
