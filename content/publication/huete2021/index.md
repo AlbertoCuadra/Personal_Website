@@ -49,7 +49,7 @@ featured: true
 
 
 #   url: ""
-url_pdf:
+url_pdf: "https://www.researchgate.net/publication/354024089_Thermochemical_effects_on_hypersonic_shock_waves_interacting_with_weak_turbulence"
 url_preprint:
 url_code: ''
 url_dataset: ''
