@@ -38,10 +38,12 @@ links:
   name: Follow
   url: https://www.linkedin.com/in/albertocuadralara/
 url_code: ""
-url_poster: "files/poster_betterport_SFMC.pdf"
+url_poster: "https://htmlpreview.github.io/?https://github.com/AlbertoCuadra/Personal_Website/blob/master/content/talk/sfmc2022/poster_betterport_SFMC.html"
 url_video: ""
 url_pdf: "files/abstract_sfmc2022.pdf"
-
+links:
+- name: Poster PDF
+  url: 'files/poster_betterport_SFMC.pdf'
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
