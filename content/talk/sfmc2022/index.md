@@ -38,7 +38,7 @@ links:
   name: Follow
   url: https://www.linkedin.com/in/albertocuadralara/
 url_code: ""
-url_poster: ""
+url_poster: "files/poster_betterport_SFMC.pdf"
 url_video: ""
 url_pdf: "files/abstract_sfmc2022.pdf"
 
