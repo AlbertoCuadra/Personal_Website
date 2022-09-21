@@ -3,10 +3,10 @@ title: Linear Theory of Hypersonic Shocks Interacting with Turbulence in Air
 event: 2023 AIAA SciTech Forum
 event_url: "https://www.aiaa.org/SciTech/"
 
-location: "Gaylord National Resort & Convention Center, Forest Heights, MD 20745, USA"
+location: "Gaylord National Resort & Convention Center"
 address:
-  city: National Harbor
-  country: United States
+  city: "National Harbor"
+  country: "United States"
 
 summary: Oral presentation in the 2023 AIAA SciTech Forum
 abstract: "The interaction between a weakly turbulent free stream of air and a hypersonic shock wave is investigated theoretically by using linear interaction analysis (LIA). The perturbation-free jump conditions across the shock are computed using Combustion Toolbox, an in-house thermochemical code capable of capturing high-temperature phenomena such as dissociation, ionization, and recombination in multi-species mixtures, which are found to be dominant effects in hypersonic shocks in air. The formulation is developed in the limit in which the thickness of the thermochemical nonequilibrium region is assumed to be much smaller than the characteristic size of the shock wrinkles caused by turbulence. Similarly to our previous work [Physics of Fluids, 33(8), 086111 (2021)] which only accounted for vibrational and dissociation effects of single-species diatomic gases, the LIA results presented here for air indicate that the enstrophy, anisotropy, intensity, and turbulent kinetic energy (TKE) of the fluctuations are more amplified through the shock than in the thermochemical frozen case. Moreover, the turbulent Reynolds number is also amplified across the shock at hypersonic Mach numbers in the presence of dissociation and vibrational excitation, as opposed to the attenuation observed in the thermochemical frozen case. Multi-species effects reshape the TKE curve by rendering two maxima that fit fairly well within the O2 and N2 dissociation processes."
