@@ -1,9 +1,9 @@
 ---
 title: Theory of turbulence augmentation across hypersonic shock waves in air
 event: 1st Spanish Fluid Mechanics Conference
-#event_url: 
+event_url: "https://sfmc22.uca.es/" 
 
-#location: Source Themes HQ
+location: Edificio Constitución 1812
 address:
   city: Cádiz
   country: Spain
