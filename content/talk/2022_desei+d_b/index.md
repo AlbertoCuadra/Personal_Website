@@ -3,7 +3,7 @@ title: "Amplificación de la turbulencia a través de una onda de choque en rég
 event: IX Congreso Nacional de I+D en Defensa y Seguridad
 event_url: https://www.tecnologiaeinnovacion.defensa.gob.es/es-es/Presentacion/deseid_2022/Paginas/Presentaci%C3%B3n.aspx
 
-#location: Source Themes HQ
+location: Base Militar Xeneral Morillo
 address:
   city: Pontevedra
   country: Spain
