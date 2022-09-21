@@ -48,8 +48,8 @@ featured: false
 
 
 #   url: ""
-url_pdf:
-url_preprint: 'files/SimEx_2022.pdf'
+url_pdf: 'files/SimEx_2022.pdf'
+url_preprint: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
