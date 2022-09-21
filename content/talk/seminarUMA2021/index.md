@@ -3,7 +3,7 @@ title: "Development of an open-source thermochemical code: Fundamentals and appl
 event: "Seminars"
 event_url: "" 
 
-#location: Source Themes HQ
+location: Escuela Técnica Superior de Ingeniería Industrial
 address:
   city: "Málaga"
   country: "Spain"
