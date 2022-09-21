@@ -49,7 +49,7 @@ featured: false
 
 #   url: ""
 url_pdf: 'files/SimEx_2022.pdf'
-url_preprint: ''
+url_preprint: 'https://www.researchgate.net/publication/363311925_SimEx_A_tool_for_the_rapid_evaluation_of_the_effects_of_explosions'
 url_code: ''
 url_dataset: ''
 url_poster: ''
