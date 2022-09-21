@@ -3,7 +3,7 @@ title: Linear Theory of Hypersonic Shocks Interacting with Turbulence in Air
 event: 2023 AIAA SciTech Forum
 event_url: "https://www.aiaa.org/SciTech/"
 
-location: "[https://goo.gl/maps/UXmmJdsYEU5hvPEr8](Gaylord National Resort & Convention Center, Forest Heights, MD 20745, USA)"
+location: "Gaylord National Resort & Convention Center, Forest Heights, MD 20745, USA"
 address:
   city: National Harbor
   country: United States
