@@ -6,7 +6,7 @@ event: 74th Annual Meeting of the American Physical Society’s Division of Flui
 #location: Source Themes HQ
 address:
   city: Phoneix
-  country: Arizona
+  country: United States
 
 summary: Oral presentation in the 74th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics
 abstract: "The interaction between a weakly turbulent free stream and a hypersonic shock wave is investigated theoretically by using linear interaction analysis (LIA). Modified Rankine-Hugoniot jump conditions that account for dissociation and vibrational excitation are derived and employed in a Fourier analysis of a hypersonic shock interacting with three-dimensional isotropic vortical disturbances. Besides confirming known endothermic effects of hypersonic thermochemistry in decreasing the mean post-shock temperature and velocity, these LIA results indicate that the enstrophy, anisotropy, intensity, and turbulent kinetic energy of the fluctuations are much more amplified through the shock than in the calorically perfect case. Additionally, the turbulent Reynolds number is amplified across the shock at hypersonic Mach numbers in the presence of dissociation and vibrational excitation, as opposed to the attenuation observed in the calorically perfect case. These results suggest that turbulence may persist and get augmented across hypersonic shock waves despite the high post-shock temperatures."
