@@ -1,9 +1,9 @@
 ---
 title: Theory of turbulence augmentation across hypersonic shock waves
 event: 74th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics
-#event_url: https://www.apsdfd2021.org/
+event_url: https://www.apsdfd2021.org/
 
-#location: Source Themes HQ
+location: Phoenix Convention Center
 address:
   city: Phoneix
   country: United States
