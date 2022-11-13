@@ -18,6 +18,7 @@ organizations:
 
 Interests:
 - Shock waves
+- Hypersonics
 - Combustion
 - App development
 
@@ -74,4 +75,4 @@ email: "acuadra@ing.uc3m.es"
 #- Visitors
 ---
 
-I was born in Málaga (Spain) where I studied Industrial Engineering passing through two long-term stays abroad in Politehnica University of Bucharest (Romania) and Instituto Tecnológico y de Estudios Superiores de Monterrey (México) for 11 and 5 months, respectively. Feeling that my ability in mathematical modelling didn't meet my personal requirements, I considered studying a MSc in Applied Mathematics at Universidad Carlos III de Madrid (UC3M). Currently, I'm doing my `PhD thesis` under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/) at UC3M. My research focuses on two main lines of work: first, on the development of an `open source wider-scope thermochemical tool`. Second, in the `analytical study of shock dynamics` in different scenarios, both with the main idea of retrofeed each other.
+I was born in Málaga (Spain) where I studied Industrial Engineering passing through two long-term stays abroad in Politehnica University of Bucharest (Romania) and Instituto Tecnológico y de Estudios Superiores de Monterrey (México) for 11 and 5 months, respectively. Feeling that my ability in mathematical modelling didn't meet my personal requirements, I considered studying a MSc in Applied Mathematics at Universidad Carlos III de Madrid (UC3M). Currently, I'm doing my `PhD thesis` under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/) at UC3M. My research focuses on two main lines of work: first, on the development of an `open-source wider-scope thermochemical tool` (hereafter referred to as [Combustion Toolbox, CT](https://combustion-toolbox-website.readthedocs.io/)). Second, in the `theoretical study of shock and detonations` that travel along non-uniform conditions, both with the main idea of retrofeed each other.
