@@ -19,7 +19,7 @@ date_end: "2023-01-23T11:10:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, César Huete, Marcos Vera]
+authors: [admin, Marcos Vera, Mario Di Renzo, César Huete]
 tags: [Hypersonics, Thermochemical, Shock Waves]
 
 # Is this a featured talk? (true/false)
