@@ -83,3 +83,26 @@
     } 
   }
 }
+
+.hero-title {
+        font-size: 2.6rem;
+        margin-top: 0;
+        line-height: 1;
+    }
+
+.hero-lead {
+        max-width: 768px;
+        font-size: 1.3rem;
+}
+
+.wg-hero .btn-lg, .wg-hero .btn-group-lg > .btn {
+        font-size: 1.1rem;
+    }
+
+.wg-hero .btn {
+        padding: 0.6em 2.1em;
+}
+
+.dark .btn-primary, .dark .btn.btn-primary.active {
+        color: white;
+    }
