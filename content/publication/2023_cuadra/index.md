@@ -51,7 +51,7 @@ featured: false
 
 #   url: ""
 url_pdf:
-url_preprint:
+url_preprint: 'files/cuadra2023a_preprint.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
