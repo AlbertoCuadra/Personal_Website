@@ -3,8 +3,8 @@ title: "Development of a wide-spectrum thermochemical code with application to p
 event: "PhD dissertation defense"
 event_url: "" 
 
-location: Universidad Carlos III de Madrid
-address: "Aula de Grados - Auditorio"
+location: Aula de Grados - Auditorio, Universidad Carlos III de Madrid
+address:
   city: "Leganés"
   country: "Spain"
 
