@@ -4,8 +4,8 @@ event: "PhD dissertation defense"
 event_url: "" 
 
 location: Universidad Carlos III de Madrid
-address:
-  city: "Madrid"
+address: "Aula de Grados - Auditorio"
+  city: "Leganés"
   country: "Spain"
 
 summary: ""
