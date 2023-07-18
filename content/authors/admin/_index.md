@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate at
+role: Postdoctoral Researcher at
 # Organizations/Affiliations
 organizations:
 - name: Universidad Carlos III de Madrid
@@ -26,11 +26,14 @@ Teaching:
 - Engineering Fluid Mechanics (lab professor)
 - Aero-thermochemical systems (lab professor)
 - Explosion dynamics (lab professor)
+- Combustion (lab professor)
+
 
 Education:
   courses:
-  - course: PhD in Fluid Mechanics, currently
+  - course: PhD in Fluid Mechanics
     institution: Universidad Carlos III de Madrid
+    year: 2023
   - course: MSc in Applied Mathematics
     institution: Universidad Carlos III de Madrid
     year: 2019
@@ -75,4 +78,6 @@ email: "acuadra@ing.uc3m.es"
 #- Visitors
 ---
 
-I was born in Málaga (Spain), where I studied Industrial Engineering, passing through two long-term stays abroad at Politehnica University of Bucharest (Romania) and Instituto Tecnológico y de Estudios Superiores de Monterrey (México) for 11 and 5 months, respectively. Feeling that my ability in mathematical modeling didn’t meet my requirements, I enrolled in an MSc in Applied Mathematics at Universidad Carlos III de Madrid (UC3M). Currently, I’m fully immersed in my `PhD thesis` under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/) at UC3M. My research focus is twofold: developing an `open-source wider-scope thermochemical tool` ([Combustion Toolbox, CT](/#hero)) and the `theoretical study of shock and detonations` that travel along non-uniform conditions.
+I am a postdoctoral researcher working on problems related to detonations and hypersonic shocks. My journey began with studies in Industrial Engineering in Málaga (Spain) and further academic experiences in Romania and Mexico. I later pursued an MSc in Applied Mathematics at Universidad Carlos III de Madrid (UC3M), where I also completed my Ph.D. thesis in fluid dynamics under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/).
+
+My research focuses on the theoretical study of shock and detonations that travel along non-uniform conditions, and I am actively involved in the development of the open-source wider-scope thermochemical tool called the [Combustion Toolbox, CT](/#hero).
