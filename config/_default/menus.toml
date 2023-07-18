@@ -42,8 +42,13 @@
   name = "Contact"
   url = "#contact"
   weight = 100
-  
+
+[[main]]
+  name = "PhD Thesis"
+  url = "files/phd_thesis_acuadra.pdf"
+  weight = 120
+
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 120
+  weight = 140
