@@ -72,3 +72,4 @@ Lab Professor:
 - Engineering Fluid Mechanics
 - Aero-themochemical systems
 - Explosion dynamics
+- Combustion
