@@ -78,6 +78,6 @@ email: "acuadra@ing.uc3m.es"
 #- Visitors
 ---
 
-I am a postdoctoral researcher working on problems related to detonations and hypersonic shocks. My journey began with studies in Industrial Engineering in Málaga (Spain) and further academic experiences in Romania and Mexico. I later pursued an MSc in Applied Mathematics at Universidad Carlos III de Madrid (UC3M), where I also completed my Ph.D. thesis in fluid dynamics under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/).
+I am a postdoctoral researcher working on problems related to detonations and hypersonic shocks. My journey began with studies in Industrial Engineering in Málaga (Spain) and further academic experiences in Romania and Mexico. I later pursued a M.Sc. in Applied Mathematics at Universidad Carlos III de Madrid (UC3M), where I also completed my Ph.D. thesis in fluid dynamics under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/).
 
-My research focuses on the theoretical study of shock and detonations that travel along non-uniform conditions, and I am actively involved in the development of the open-source wider-scope thermochemical tool called the [Combustion Toolbox, CT](/#hero).
+My research focuses on the theoretical study of shock and detonations that travel along non-uniform conditions, and I am actively involved in the development of the open-source thermochemical tool called the [Combustion Toolbox, CT](/#hero).
