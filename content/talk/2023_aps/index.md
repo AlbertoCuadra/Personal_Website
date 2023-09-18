@@ -13,8 +13,8 @@ abstract: "We present the results of shock-turbulence interactions in hypersonic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-11-29T08:26:00Z"
-date_end: "2023-11-29T08:39:00Z"
+date: "2023-11-21T08:26:00Z"
+date_end: "2023-11-21T08:39:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
