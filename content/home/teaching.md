@@ -69,7 +69,7 @@ subtitle = ""
 
 Lab Professor:
 
-- Engineering Fluid Mechanics
+- Fluid Mechanics
 - Aero-themochemical systems
 - Explosion dynamics
 - Combustion
