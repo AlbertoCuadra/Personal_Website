@@ -23,7 +23,7 @@ links:
 
 [![DOI](https://zenodo.org/badge/640054736.svg)](https://zenodo.org/badge/latestdoi/640054736)
 
-Greetings! A few months ago, I was working on – the [DOI Scraper](https://github.com/AlbertoCuadra/doi_scraper). This Python script reads a `.bib` file, hunts down articles without a DOI (Digital Object Identifier), and effortlessly fetches the missing DOIs using the [Crossref API](https://www.crossref.org/documentation/retrieve-metadata/rest-api/). It then updates the `.bib` file with the new data.
+A few months ago, I was working on – the [DOI Scraper](https://github.com/AlbertoCuadra/doi_scraper). This Python script reads a `.bib` file, hunts down articles without a DOI (Digital Object Identifier), and effortlessly fetches the missing DOIs using the [Crossref API](https://www.crossref.org/documentation/retrieve-metadata/rest-api/). It then updates the `.bib` file with the new data.
 
 ## Why Did I Create This?
 
