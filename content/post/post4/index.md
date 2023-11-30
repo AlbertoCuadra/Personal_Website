@@ -1,10 +1,10 @@
 ---
 title: "Automating DOI extraction with Python"
-date: 2023-30-11
+date: 2023-11-30
 math: true
 diagram: true
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-30-11T00:00:00Z"
+publishDate: "2023-11-30T00:00:00Z"
 #image:
 #  placement: 3
 #  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
@@ -18,10 +18,6 @@ links:
 - name: Github
   url: 'https://github.com/AlbertoCuadra/doi_scraper'
 ---
-
-# Automating DOI Extraction with Python
-
-[![DOI](https://zenodo.org/badge/640054736.svg)](https://zenodo.org/badge/latestdoi/640054736)
 
 A few months ago, I was working on – the [DOI Scraper](https://github.com/AlbertoCuadra/doi_scraper). This Python script reads a `.bib` file, hunts down articles without a DOI (Digital Object Identifier), and effortlessly fetches the missing DOIs using the [Crossref API](https://www.crossref.org/documentation/retrieve-metadata/rest-api/). It then updates the `.bib` file with the new data.
 
