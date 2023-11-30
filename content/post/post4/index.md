@@ -27,7 +27,7 @@ Greetings! A few months ago, I was working on – the [DOI Scraper](https://gith
 
 ## Why Did I Create This?
 
-As a researcher, reference management is a critical yet often time-consuming task. One aspect I found particularly useful when writing my articles and notes in `LaTeX` is the ability to include the DOIs of the  articles cited for easy access from the manuscript. However, when I download the `.bib` file from Google Scholar, the DOIs are often missing and the manual search for them proved to be a real headache. To save time and enhance efficiency, I decided to automate the process and share this tool with you all.
+As a researcher, reference management is a critical yet often time-consuming task. One aspect I found particularly useful when writing my articles and notes in `LaTeX` is the ability to include the DOIs of the cited articles in the manuscript for easy access. However, when I download the `.bib` file from Google Scholar, the DOIs are often missing and the manual search for them proved to be a real headache. To save time and enhance efficiency, I decided to automate the process and share this tool with you all.
 
 ## Prerequisites
 
