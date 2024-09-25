@@ -48,7 +48,7 @@ hero_media = "gif/preview.gif"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://github.com/AlbertoCuadra/combustion_toolbox/releases" data-repo="AlbertoCuadra/combustion_toolbox">Latest release<!-- V --></a>'
+  label = '<a class="js-github-release" href="https://github.com/CombustionToolbox/combustion_toolbox/releases" data-repo="CombustionToolbox/combustion_toolbox">Latest release<!-- V --></a>'
 +++
 
 A MATLAB-GUI based thermochemical code for solving gaseous combustion problems
