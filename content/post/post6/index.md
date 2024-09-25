@@ -24,8 +24,6 @@ links:
   url: 'files/cuadra2024a_preprint.pdf'
 ---
 
-# The Combustion Toolbox v1.1.0 is Here!
-
 After months of refinement and debugging, I’m thrilled to announce the release of Combustion Toolbox v1.1.0! Along with the release, you can check out the [preprint](https://doi.org/10.48550/arXiv.2409.15086). For detailed documentation, visit our [website](https://combustion-toolbox-website.readthedocs.io/).
 
 ## What's New in v1.1.0?
