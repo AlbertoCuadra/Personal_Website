@@ -37,7 +37,7 @@ hero_media = "gif/preview.gif"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/CombustionToolbox/combustion_toolbox/archive/refs/heads/master.zip"
+  url = "https://github.com/AlbertoCuadra/combustion_toolbox/archive/refs/heads/master.zip"
   label = "Get Started"
   icon_pack = "fas"
   icon = "download"
