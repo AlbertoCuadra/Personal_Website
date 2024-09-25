@@ -37,7 +37,7 @@ hero_media = "gif/preview.gif"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/CombustionToolbox/combustion_toolbox/archive/refs/heads/master.zip"
+  url = "https://github.com/AlbertoCuadra/combustion_toolbox/archive/refs/heads/master.zip"
   label = "Get Started"
   icon_pack = "fas"
   icon = "download"
@@ -48,11 +48,11 @@ hero_media = "gif/preview.gif"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://github.com/CombustionToolbox/combustion_toolbox/releases" data-repo="CombustionToolbox/combustion_toolbox">Latest release<!-- V --></a>'
+  label = '<a class="js-github-release" href="https://github.com/AlbertoCuadra/combustion_toolbox/releases" data-repo="AlbertoCuadra/combustion_toolbox">Latest release<!-- V --></a>'
 +++
 
 A MATLAB-GUI based thermochemical code for solving gaseous combustion problems
 
 [Click here to access the preprint article](files/cuadra2024a_preprint.pdf)
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/CombustionToolbox/combustion_toolbox" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/AlbertoCuadra/combustion_toolbox" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
