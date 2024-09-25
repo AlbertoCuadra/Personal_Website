@@ -20,6 +20,8 @@ links:
   url: 'https://combustion-toolbox-website.readthedocs.io/'
 - name: GitHub
   url: 'https://github.com/CombustionToolbox/combustion_toolbox'
+- name: Preprint
+  url: 'files/cuadra2024a_preprint.pdf'
 ---
 
 # The Combustion Toolbox v1.1.0 is Here!
