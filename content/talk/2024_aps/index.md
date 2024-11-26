@@ -9,12 +9,12 @@ address:
   country: "United States"
 
 summary: Oral presentation in the 77th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics
-abstract: "We present the results of shock-turbulence interactions in hypersonic flows using direct numerical simulation (DNS) and linear interaction analysis (LIA). The DNS calculations are conducted with the HTR solver at various turbulent Mach numbers. These results are compared with linear theory by solving the unperturbed problem using the in-house chemical equilibrium code Combustion Toolbox. Subsequently, the perturbed problem comprising weakly isotropic vortical disturbances is solved using LIA. The study focuses on how dilatational energy ahead of the shock influences the Reynolds stress components. Additionally, we examine the effect of vibrational excitation on turbulence amplification by using two thermodynamic models: calorically perfect gas and calorically imperfect gas with frozen chemistry."
+abstract: "The interaction of turbulence with shock waves significantly modulates the frequency and amplitude of hydrodynamic fluctuations encountered by aerospace vehicles in low-altitude hypersonic flight. In these high-speed flows, intrinsic compressibility effects emerge together with high-enthalpy phenomena in the form of internal-energy excitation. The present study directly compares direct numerical simulation (DNS) and linear interaction analysis (LIA) to characterize the impact of density fluctuations and endothermic processes on Mach-5 canonical shock-turbulence interaction. Whereas the computational effort entails directly resolving all relevant length scales and nonlinear interactions, the LIA framework models the upstream compressible turbulence as a superposition of weakly vortical, entropic, and acoustic fluctuations. Both the numerical and theoretical approaches reveal that increasing upstream compressibility serves to augment the turbulent kinetic energy (TKE) across the shock-turbulence interaction for varying turbulent Mach numbers. The effect of endothermicity is likewise assessed in each framework by introducing equilibrium vibrational excitation, which is shown to further amplify the TKE downstream of the shock."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-25T08:26:00Z"
-date_end: "2024-11-25T08:39:00Z"
+date: "2024-11-25T14:40:00Z"
+date_end: "2024-11-25T14:52:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
