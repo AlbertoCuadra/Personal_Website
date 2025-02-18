@@ -51,7 +51,7 @@ featured: false
 #  url: https://www.linkedin.com/in/albertocuadralara/
 
 #   url: ""
-url_pdf:
+url_pdf: 'https://www.researchgate.net/publication/387861132_Compressibility_and_vibrational-excitation_effects_in_hypersonic_shock-turbulence_interaction'
 url_preprint: ''
 url_code: ''
 url_dataset: ''
