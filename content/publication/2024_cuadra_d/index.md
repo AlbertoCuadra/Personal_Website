@@ -21,7 +21,7 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Tech. Report, NATO AVT-352 (2024)"
+publication: "Tech. Report, RTO-EN-AVT-352 (2024)"
 publication_short: ""
 
 abstract: ""
