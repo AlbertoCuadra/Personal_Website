@@ -10,7 +10,7 @@ authors:
   
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
 date: "2025-02-17T00:00:00Z"
-doi: ""
+doi: "10.1063/5.0255816"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-02-01T00:00:00Z"
@@ -22,10 +22,10 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physics of Fluids, (2025) accepted"
+publication: "Physics of Fluids 37, 045129 (2025)"
 publication_short: ""
 
-abstract: Hypersonic flight involves a variety of complex flow phenomena that directly impact the aerothermodynamic loading of high-speed vehicles. The turbulence encountered during a typical flight trajectory influences and interacts with the shock waves on and around the surface of a vehicle and its propulsion system, affecting both aerodynamic and power plant performance. These interactions can be studied by isolating a turbulent flow convected through a normal shock, commonly referred to as the canonical shock-turbulence interaction (STI) problem. Scale-resolving computational fluid dynamics (CFD) and linear interaction analysis (LIA) have been crucial in studying this problem and formulating scaling laws that explain the observed behavior. In this work, an extensive review of the theoretical (LIA) and numerical (CFD) work on the canonical STI is presented. The majority of the work conducted to date has focused on calorically perfect gases with constant heat capacities. However, in hypersonic flows, chemical and thermal non-equilibrium effects may alter the nature of the interaction. As a result, relevant LIA and CFD studies addressing high-enthalpy phenomena are also succinctly discussed.
+abstract: "Hypersonic flight involves a variety of complex flow phenomena that directly impact the aerothermodynamic loading of high-speed vehicles. The turbulence encountered during a typical flight trajectory influences and interacts with the shock waves on and around the surface of a vehicle and its propulsion system, affecting both aerodynamic and power plant performance. These interactions can be studied by isolating a turbulent flow convected through a normal shock, commonly referred to as the canonical shock-turbulence interaction (STI) problem. Scale-resolving computational fluid dynamics (CFD) and linear interaction analysis (LIA) have been crucial in studying this problem and formulating scaling laws that explain the observed behavior. In this work, an extensive review of the theoretical (LIA) and numerical (CFD) work on the canonical STI is presented. The majority of the work conducted to date has focused on calorically perfect gases with constant heat capacities. However, in hypersonic flows, chemical and thermal non-equilibrium effects may alter the nature of the interaction. As a result, relevant LIA and CFD studies addressing high-enthalpy phenomena are also succinctly discussed."
 
 #Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -52,7 +52,7 @@ featured: true
 #  url: https://www.linkedin.com/in/albertocuadralara/
 
 #   url: ""
-url_pdf:
+url_pdf: 'https://www.researchgate.net/publication/390491206_Review_of_shock-turbulence_interaction_with_a_focus_on_hypersonic_flow'
 url_preprint: ''
 url_code: ''
 url_dataset: ''

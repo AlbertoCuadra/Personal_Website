@@ -20,7 +20,7 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Tech. Report, Summer Program Proceedings, Center for Turbulence Research, Stanford University."
+publication: "Tech. Report, Summer Program Proceedings, Center for Turbulence Research, Stanford University"
 publication_short: ""
 
 abstract: "The interaction of turbulence with shock waves significantly modulates the frequency and amplitude of hydrodynamic fluctuations encountered by aerospace vehicles in low-altitude hypersonic flight. In these high-speed flows, intrinsic compressibility effects emerge together with high-enthalpy phenomena in the form of internal-energy excitation. The present study directly compares direct numerical simulation and linear interaction analysis to characterize the impact of density fluctuations and endothermic processes on Mach-5 canonical shock-turbulence interaction. Both the numerical and theoretical approaches reveal that increasing upstream compressibility augments the turbulent kinetic energy (TKE) across the shock-turbulence interaction for varying turbulent Mach numbers. The effect of endothermicity is likewise assessed in each framework by introducing equilibrium vibrational excitation, which is shown to further amplify the TKE downstream of the shock."
