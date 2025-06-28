@@ -13,8 +13,8 @@ abstract: "The Combustion Toolbox (CT) is an open-source, MATLAB-based framework
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-10-25T11:30:00Z"
-date_end: "2025-10-25T11:45:00Z"
+date: "2025-06-27T11:30:00Z"
+date_end: "2025-06-27T11:45:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
