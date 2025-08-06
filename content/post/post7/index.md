@@ -1,6 +1,7 @@
 ---
 title: "Combustion Toolbox v1.2.0 Released"
 date: 2025-03-16
+lastmod: 2025-03-16
 math: true
 diagram: true
 publishDate: "2025-03-16T00:00:00Z"
