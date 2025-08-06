@@ -1,13 +1,14 @@
 ---
-title: "Direct Numerical Simulations and Linear Analysis for Hypersonic Shock-Turbulence Interaction in Air"
+title: "Hypersonic Shock-Turbulence Interactions: State-of-the-Art and Future Prospects"
 authors:
-- admin
-- Christopher T. Williams
-- Mario Di Renzo
 - César Huete
+- admin
+- Mario Di Renzo
+- Christopher T. Williams
+- Jimmy-John O.E. Hoste
   
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
-date: "2024-11-15T00:00:00Z"
+date: "2024-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,11 +18,11 @@ publishDate: "2019-02-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "Work in progress"
+publication: "Tech. Report, RTO-EN-AVT-352 (2024)"
+publication_short: ""
 
 abstract: ""
 
@@ -29,13 +30,13 @@ abstract: ""
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Numerical code
-- DNS
-- Thermochemistry
+- Hypersonics
 - Shock waves
 - LIA
+- DNS
+- Thermochemistry
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
