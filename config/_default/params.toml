@@ -129,7 +129,7 @@ phone = "(+34) 91 624 9407"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Building Agustín de Betancourt, Office 1.1.F36, Universidad Carlos III", city = "Leganés", region = "Madrid", postcode = "28911", country = "Spain", country_code = "ES"}
+address = {street = "Building Agustín de Betancourt, Office 1.1.D10, Universidad Carlos III", city = "Leganés", region = "Madrid", postcode = "28911", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
