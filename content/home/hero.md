@@ -51,8 +51,8 @@ hero_media = "gif/preview.gif"
   label = '<a class="js-github-release" href="https://github.com/AlbertoCuadra/combustion_toolbox/releases" data-repo="AlbertoCuadra/combustion_toolbox">Latest release<!-- V --></a>'
 +++
 
-A MATLAB-GUI based thermochemical code for solving gaseous combustion problems
+A MATLAB-based framework for solving combustion and high-speed flow problems
 
-[Click here to access the preprint article](files/cuadra2024a_preprint.pdf)
+[Click here to access the published article](https://doi.org/10.1016/j.cpc.2025.110004)
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/AlbertoCuadra/combustion_toolbox" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
