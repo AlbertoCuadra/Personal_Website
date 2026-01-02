@@ -5,7 +5,7 @@ authors:
 - César Huete
 - Marcos Vera
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
-date: "2025-12-12T00:00:00Z"
+date: "2026-03-01T00:00:00Z"
 doi: "10.1016/j.cpc.2025.110004"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Computer Physics Communications  320, 110004 (2026)"
 publication_short: ""
 
 abstract: "The Combustion Toolbox (CT) is a newly developed open-source thermochemical code designed to solve problems involving chemical equilibrium for both gas- and condensed-phase species. The kernel of the code is based on the theoretical framework set forth by NASA's computer program CEA (Chemical Equilibrium with Applications) while incorporating new algorithms that significantly improve both convergence rate and robustness. The thermochemical properties are computed under the ideal gas approximation using an up-to-date version of NASA's 9-coefficient polynomial fits. These fits use the Third Millennium database, which includes the available values from Active Thermochemical Tables. Combustion Toolbox is programmed in MATLAB with an object-oriented architecture composed of three main modules: CT-EQUIL, CT-SD, and CT-ROCKET. The kernel module, CT-EQUIL, minimizes the Gibbs/Helmholtz free energy of the system using the technique of Lagrange multipliers combined with a multidimensional Newton-Raphson method, upon the condition that two state functions are used to define the mixture properties (e.g., enthalpy and pressure). CT-SD solves processes involving strong changes in dynamic pressure, such as steady shock and detonation waves under normal and oblique incidence angles. Finally, CT-ROCKET estimates rocket engine performance under highly idealized conditions. The new tool is equipped with a versatile Graphical User Interface and has been successfully used for teaching and research activities over the last six years. Results are in excellent agreement with CEA, Cantera within Caltech's Shock and Detonation Toolbox (SD-Toolbox), and the Thermochemical Equilibrium Abundances (TEA) code. CT is available under an open-source GPLv3 license via GitHub https://github.com/CombustionToolbox/combustion_toolbox, and its documentation can be found in https://combustion-toolbox-website.readthedocs.io."
