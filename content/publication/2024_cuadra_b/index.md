@@ -1,13 +1,14 @@
 ---
-title: "Compressibility and vibrational-excitation effects in hypersonic shock-turbulence interaction"
+title: "Hypersonic Shock-Turbulence Interactions: State-of-the-Art and Future Prospects"
 authors:
-- admin
-- Christopher T. Williams
-- Mario Di Renzo
 - César Huete
+- admin
+- Mario Di Renzo
+- Christopher T. Williams
+- Jimmy-John O.E. Hoste
   
 # Departamento de Ingeniería Térmica y de Fluidos, Universidad Carlos III de Madrid, 28911 Leganés, Spain
-date: "2024-09-16T00:00:00Z"
+date: "2024-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,23 +21,22 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Tech. Report, Summer Program Proceedings, Center for Turbulence Research, Stanford University"
+publication: "Tech. Report, RTO-EN-AVT-352 (2024)"
 publication_short: ""
 
-abstract: "The interaction of turbulence with shock waves significantly modulates the frequency and amplitude of hydrodynamic fluctuations encountered by aerospace vehicles in low-altitude hypersonic flight. In these high-speed flows, intrinsic compressibility effects emerge together with high-enthalpy phenomena in the form of internal-energy excitation. The present study directly compares direct numerical simulation and linear interaction analysis to characterize the impact of density fluctuations and endothermic processes on Mach-5 canonical shock-turbulence interaction. Both the numerical and theoretical approaches reveal that increasing upstream compressibility augments the turbulent kinetic energy (TKE) across the shock-turbulence interaction for varying turbulent Mach numbers. The effect of endothermicity is likewise assessed in each framework by introducing equilibrium vibrational excitation, which is shown to further amplify the TKE downstream of the shock."
+abstract: ""
 
 #Summary. An optional shortened abstract.
-summary:
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Hypersonics
-- Numerical code
-- DNS
-- Thermochemistry
 - Shock waves
 - LIA
+- DNS
+- Thermochemistry
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -51,7 +51,7 @@ featured: false
 #  url: https://www.linkedin.com/in/albertocuadralara/
 
 #   url: ""
-url_pdf: 'https://www.researchgate.net/publication/387861132_Compressibility_and_vibrational-excitation_effects_in_hypersonic_shock-turbulence_interaction'
+url_pdf:
 url_preprint: ''
 url_code: ''
 url_dataset: ''
