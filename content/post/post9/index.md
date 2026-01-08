@@ -24,7 +24,7 @@ links:
 
 We are pleased to announce that the first peer-reviewed article describing the Combustion Toolbox framework has been published as open access in Computer Physics Communications.
 
->> _Cuadra, A., Huete, C., & Vera, M., (2026). Combustion Toolbox: An open-source thermochemical code for gas-and condensed-phase problems involving chemical equilibrium. Computer Physics Communications 320, 110004. (DOI: 10.1016/j.cpc.2025.110004)[https://doi.org/10.1016/j.cpc.2025.110004]._
+> _Cuadra, A., Huete, C., & Vera, M., (2026). Combustion Toolbox: An open-source thermochemical code for gas-and condensed-phase problems involving chemical equilibrium. Computer Physics Communications 320, 110004. [DOI: 10.1016/j.cpc.2025.110004](https://doi.org/10.1016/j.cpc.2025.110004)._
 
 In addition, we are excited to announce the release of **Combustion Toolbox v1.2.8**, which includes a new module for linear shock-turbulence interaction analysis, a generalized Prandtl-Meyer expansion solver using different caloric models, and a broad set of robustness improvements, bug fixes, and documentation updates across the Combustion Toolbox ecosystem.
 
