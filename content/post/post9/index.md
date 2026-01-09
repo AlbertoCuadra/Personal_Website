@@ -96,7 +96,7 @@ The parameter $\eta$ controls the relative contribution of propagating acoustic 
 
 $$\eta = \frac{\text{TKE}_{1a}}{\text{TKE}_{1r}},$$
 
-where `TKE_1,a` and `TKE_1,r` denote the acoustic and vortical-entropic contributions to the upstream turbulent kinetic energy, respectively.
+where $TKE_{1a}$ and $TKE_{1r}$ denote the acoustic and vortical-entropic contributions to the upstream turbulent kinetic energy, respectively.
 
 ### Examples
 This pull request includes some examples illustrating all supported configurations:
