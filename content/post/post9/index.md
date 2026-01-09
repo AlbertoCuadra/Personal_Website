@@ -87,14 +87,14 @@ The parameter $\chi$ prescribes the correlation between entropic density fluctua
 
 Following Eq. (3.9) of the reference formulation, $\chi$ is defined as
 
-$$ \langle \chi \rangle = \dfrac{\langle \delta \rho_1^e \delta u_1^r\rangle}{\langle \delta u_1^r \delta u_1^r \rangle} \dfrac{\langle c_1 \rangle}{\langle \rho_1 \rangle},$$
+$$ \langle \chi \rangle = \frac{\langle \delta \rho_1^e \delta u_1^r\rangle}{\langle \delta u_1^r \delta u_1^r \rangle} \frac{\langle c_1 \rangle}{\langle \rho_1 \rangle},$$
 
 where $\delta \rho_1^e$ denotes entropic density fluctuations, $\delta u_1^r$ denotes rotational (vortical) velocity fluctuations, and $c_1$ and $\rho_1$ are the upstream speed of sound and density.
 
-#### Acoustic-to-Solenoidal TKE Ratio (`\eta`)
+#### Acoustic-to-Solenoidal TKE Ratio (`eta`)
 The parameter $\eta$ controls the relative contribution of propagating acoustic (dilatational) fluctuations to the upstream turbulent kinetic energy. It is defined as
 
-$$\eta = \dfrac{\text{TKE}_{1a}}{\text{TKE}_{1r}},$$
+$$\eta = \frac{\text{TKE}_{1a}}{\text{TKE}_{1r}},$$
 
 where `TKE_1,a` and `TKE_1,r` denote the acoustic and vortical-entropic contributions to the upstream turbulent kinetic energy, respectively.
 
@@ -103,7 +103,7 @@ This pull request includes some examples illustrating all supported configuratio
 
 - **Vortical Shock-Turbulence Interaction**
   - Purely solenoidal upstream turbulence
-  - No entropic or acoustic content (`eta = 0`, no `chi`)
+  - No acoustic or entropic content (`eta = 0`, `chi = 0`)
 
 - **Vortical-Entropic Shock-Turbulence Interaction**
   - Solenoidal turbulence with correlated entropic density fluctuations
