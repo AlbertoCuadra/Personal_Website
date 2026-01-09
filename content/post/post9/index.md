@@ -91,10 +91,10 @@ $$ \langle \chi \rangle = \frac{\langle \delta \rho_1^e \delta u_1^r\rangle}{\la
 
 where $\delta \rho_1^e$ denotes entropic density fluctuations, $\delta u_1^r$ denotes rotational (vortical) velocity fluctuations, and $c_1$ and $\rho_1$ are the upstream speed of sound and density.
 
-#### Acoustic-to-Solenoidal TKE Ratio (`eta`)
+#### Dilatational-to-Solenoidal TKE Ratio (`eta`)
 The parameter $\eta$ controls the relative contribution of propagating acoustic (dilatational) fluctuations to the upstream turbulent kinetic energy. It is defined as
 
-$$\eta = \frac{\text{TKE}_{1a}}{\text{TKE}_{1r}},$$
+$$\eta = \frac{TKE_{1a}}{TKE_{1r}},$$
 
 where $TKE_{1a}$ and $TKE_{1r}$ denote the acoustic and vortical-entropic contributions to the upstream turbulent kinetic energy, respectively.
 
