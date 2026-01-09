@@ -157,7 +157,7 @@ The implementation was verified against **Caltech’s Shock-Detonation Toolbox**
 
 ### Example
 
-```matlab
+```octave
 % Import packages
 import combustiontoolbox.databases.NasaDatabase
 import combustiontoolbox.core.*
@@ -237,7 +237,7 @@ This replaces the previous dual-flag mechanism and prevents invalid or ambiguous
 
 ### Example
 
-```matlab
+```octave
 caloricGasModel = CaloricGasModel.perfect;
 
 if caloricGasModel.isPerfect()
