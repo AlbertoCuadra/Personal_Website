@@ -78,7 +78,7 @@ Each model:
   - Turbulent kinetic energy (TKE)
   - Longitudinal and transverse TKE components
   - Enstrophy
-  - Anisotropy measures
+  - Anisotropy
 
 ### Characterization of upstream turbulence field
 
