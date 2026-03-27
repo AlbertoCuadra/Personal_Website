@@ -1,5 +1,5 @@
 ---
-title: "The role of compressibility and vibrational-excitation in hypersonic shock-turbulence interactions"
+title: "The role of compressibility and vibrational excitation in hypersonic shock-turbulence interactions"
 authors:
 - admin
 - Christopher T. Williams
@@ -20,8 +20,8 @@ publishDate: "2026-02-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Fluid Mechanics"
-publication_short: "Accepted"
+publication: "Journal of Fluid Mechanics, 1030, A30 (2026)"
+publication_short: ""
 
 abstract: "The interaction between turbulence and shock waves significantly modulates the frequency and amplitude of hydrodynamic fluctuations experienced by aerospace vehicles during low-altitude hypersonic flight. In these high-speed flows, intrinsic compressibility effects arise alongside high-enthalpy phenomena manifested through internal energy excitation. The present study compares direct numerical simulation (DNS) and linear interaction analysis (LIA) to characterise the influence of solenoidal and dilatational fluctuations, as well as endothermic processes, on a Mach 5 canonical shock-turbulence interaction (STI). Whilst the computational approach involves directly resolving all relevant length scales and potential non-linear interactions, the LIA framework models the upstream compressible turbulence as a superposition of weakly vortical, entropic, and acoustic fluctuations, with the thermal non-equilibrium thickness assumed to be much thinner than the turbulence scales. Both the numerical and theoretical methods reveal that increasing upstream compressibility enhances the turbulent kinetic energy (TKE) across the STI for varying turbulent Mach numbers. The effect of vibrational excitation is shown to further amplify the TKE downstream of the shock. The influence of upstream dilatational disturbances on the postshock turbulent spectra is also analysed, and an improved LIA-based estimate of the Kolmogorov length scale across the shock is obtained."
 
