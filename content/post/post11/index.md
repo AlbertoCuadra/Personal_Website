@@ -38,4 +38,5 @@ Understanding these dynamics is a critical step toward accurately predicting hea
 A huge thanks to my co-authors Christopher Williams, Mario Di Renzo, and César Huete!
 
 **Read the Open Access paper here:** https://doi.org/10.1017/jfm.2026.11355 
+
 **Check out the LIA implementation in the Combustion Toolbox:** https://combustion-toolbox-website.readthedocs.io/
