@@ -16,7 +16,6 @@ links:
 - name: DOI
   url: 'https://doi.org/10.1017/jfm.2026.11355'
 ---
-
 [![Preview](/gif/cuadra2026b_dns.gif)](https://doi.org/10.1017/jfm.2026.11355)
 
 I am very happy to share that our latest article, "The role of compressibility and vibrational excitation in hypersonic shock-turbulence interactions", has just been published in the Journal of Fluid Mechanics.
