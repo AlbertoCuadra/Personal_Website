@@ -50,7 +50,7 @@ featured: false
 #  url: https://www.linkedin.com/in/albertocuadralara/
 
 #   url: ""
-url_pdf:
+url_pdf: 'files/cuadra2026b.pdf'
 url_preprint: ''
 url_code: ''
 url_dataset: ''
