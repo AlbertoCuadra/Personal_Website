@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alberto Cuadra-Lara
+title: Alberto Cuadra
 
 # Username (this should match the folder name)
 authors:
@@ -17,16 +17,17 @@ organizations:
   url: "https://www.uc3m.es/Inicio"
 
 Interests:
-- Shock waves
-- Hypersonics
+- Hypersonic flows
+- Shock waves and detonations
 - Combustion
-- App development
+- Scientific computing
 
 Teaching:
-- Engineering Fluid Mechanics (lab professor)
-- Aero-thermochemical systems (lab professor)
-- Explosion dynamics (lab professor)
-- Combustion (lab professor)
+- Engineering Fluid Mechanics
+- Aero-thermochemical systems
+- Combustion
+- Explosion dynamics
+
 
 
 Education:
@@ -78,6 +79,8 @@ email: "acuadra@ing.uc3m.es"
 #- Visitors
 ---
 
-I am an Assistant Professor working on problems related to detonations and hypersonic shocks. My journey began with studies in Industrial Engineering in Málaga (Spain) and further academic experiences in Romania and Mexico. I later pursued a M.Sc. in Applied Mathematics at Universidad Carlos III de Madrid (UC3M), where I also completed my Ph.D. thesis in fluid dynamics under the supervision of [Prof. Marcos Vera](http://fluidosuc3m.es/people/mvcoello/) and [Prof. César Huete](http://fluidosuc3m.es/people/chuete/).
+I am an Assistant Professor of Fluid Mechanics at Universidad Carlos III de Madrid. My research addresses fundamental problems in compressible and reacting flows, with particular emphasis on shock–turbulence interactions, detonation dynamics, and thermochemical effects in hypersonic flows.
 
-My research focuses on the theoretical study of shock and detonations that travel along non-uniform conditions, and I am actively involved in the development of the open-source thermochemical tool called the [Combustion Toolbox, CT](/#hero).
+My work combines theoretical analysis, reduced-order modeling, and direct numerical simulations to understand the physical mechanisms governing these flows and develop efficient predictive tools. I am also the lead developer of the [Combustion Toolbox](/#hero), an open-source computational framework for thermochemistry, combustion, and high-speed flow analysis.
+
+I received my PhD in Fluid Mechanics from UC3M in 2023 and have conducted collaborative research at the University of Salento and Stanford University's Center for Turbulence Research.
