@@ -79,8 +79,8 @@ email: "acuadra@ing.uc3m.es"
 #- Visitors
 ---
 
-I am an Assistant Professor of Fluid Mechanics at Universidad Carlos III de Madrid. My research addresses fundamental problems in compressible and reacting flows, with particular emphasis on shock–turbulence interactions, detonation dynamics, and thermochemical effects in hypersonic flows.
+I am an Assistant Professor of Fluid Mechanics at Universidad Carlos III de Madrid (UC3M). My research addresses fundamental problems in compressible and reacting flows, with particular emphasis on shock–turbulence interactions, detonation dynamics, and thermochemical effects in hypersonic flows.
 
 My work combines theoretical analysis, reduced-order modeling, and direct numerical simulations to understand the physical mechanisms governing these flows and develop efficient predictive tools. I am also the lead developer of the [Combustion Toolbox](/#hero), an open-source computational framework for thermochemistry, combustion, and high-speed flow analysis.
 
-I received my PhD in Fluid Mechanics from UC3M in 2023 and have conducted collaborative research at the University of Salento and Stanford University's Center for Turbulence Research.
+I received my PhD in Fluid Mechanics from UC3M in 2023 and have undertaken research stays at the University of Salento and Stanford University's Center for Turbulence Research (CTR).
