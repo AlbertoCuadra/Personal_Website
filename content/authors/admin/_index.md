@@ -83,4 +83,4 @@ I am an Assistant Professor of Fluid Mechanics at Universidad Carlos III de Madr
 
 My work combines theoretical analysis, reduced-order modeling, and direct numerical simulations to understand the physical mechanisms governing these flows and develop efficient predictive tools. I am also the lead developer of the [Combustion Toolbox](/#hero), an open-source computational framework for thermochemistry, combustion, and high-speed flow analysis.
 
-I received my PhD in Fluid Mechanics from UC3M in 2023 and have undertaken research stays at the University of Salento and Stanford University's Center for Turbulence Research (CTR).
+I received my PhD in Fluid Mechanics from UC3M in 2023 and have undertaken research stays at the [University of Salento](https://sfdlab.unisalento.it/home) and [Stanford University's Center for Turbulence Research (CTR)](https://ctr.stanford.edu/).
